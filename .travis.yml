@@ -1,3 +1,5 @@
+language: python
+
 after_success:
   - codecov # submit coverage
   - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
