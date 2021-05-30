@@ -1,13 +1,13 @@
-from fastkml import kml
 import geojson
-import shapely.wkt
+from fastkml import kml
+from spatial_calculations import generate_random_points
 
 # Instantiate a KML Object
 k = kml.KML()
 
 # Read sample KML residing in data dir on root
 with open('C:\Github\PolyFiller\data\AT_Dornbirn.kml', 'rt', encoding="utf-8") as myfile:
-    doc=myfile.read()
+    doc = myfile.read()
 
 # Assign the above data to the instantiated KML object
 k.from_string(doc)
@@ -15,9 +15,10 @@ k.from_string(doc)
 # Create a list of all the features in the KML
 features = list(k.features())
 
+# Store all nested features in a list
 primary_nested_features = list(features[0].features())
 
+# Get polygon and calculate random points inside polygon
 for feature in primary_nested_features:
-    g1 = shapely.wkt.loads(feature.geometry.wkt)
-    g2 = geojson.Feature(geometry=g1, properties={})
-    print(g2.geometry.coordinates[0])
+    points = generate_random_points(5, feature.geometry)
+    print(points)
