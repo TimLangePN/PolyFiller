@@ -2,6 +2,7 @@ import geojson
 from fastkml import kml
 from spatial_calculations import *
 from csv_writer import *
+from reverse_geocoder import *
 
 csv_file = "C:\Github\PolyFiller\data\example.csv"
 # Instantiate a KML Object
@@ -23,4 +24,5 @@ primary_nested_features = list(features[0].features())
 # Get polygon and calculate random points inside polygon
 for feature in primary_nested_features:
     points = generate_random_points(5, feature.geometry)
+    address = get_address(str(points[0].y), str(points[0].x))
     write_data_to_csv(csv_file, points)
