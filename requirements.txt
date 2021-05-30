@@ -18,7 +18,6 @@ pycodestyle==2.7.0
 pygeoif==0.7
 Pygments==2.9.0
 python-dateutil==2.8.1
-pywin32==300
 pyzmq==22.1.0
 Shapely==1.7.1
 six==1.16.0
