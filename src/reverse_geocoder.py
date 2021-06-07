@@ -1,21 +1,6 @@
-from geopy.geocoders import Nominatim
+import geocoder
 
-geolocator = Nominatim(user_agent="PolyFiller")
-
-
-def get_street(lat, lon):
-    location = geolocator.reverse(lat+","+lon)
-    rawstring = location._raw['address']
-    return rawstring['road']
-
-
-def get_city(lat, lon):
-    location = geolocator.reverse(lat+","+lon)
-    rawstring = location._raw['address']
-    if 'town' in rawstring:
-        return rawstring['town']
-    elif 'city' in rawstring:
-        return rawstring['city']
-
-# currently takes road and town from raw geopy data and returns it to the location variable
-# need to check on why this is randomly timing out, maybe loop through location instead of calling it individually
+def resolve_street_name(y, x):
+    location = geocoder.bing([y, x], method='reverse', key='Ai7XinRoS3z2Nydo0_dtrqjNLlHhOozDWUAijI0BikpnI-vwCcWSxj7yyM48TG8k')
+    street_name = location.current_result.address.partition(',')[0]
+    return street_name

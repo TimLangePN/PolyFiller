@@ -9,9 +9,7 @@ import json
 with open(".vscode\\load.json", "r") as jsonfile:
     jsonloader = json.load(jsonfile)
     kmlpath = (jsonloader["kmlpath"])
-    csvpath = (jsonloader["csvpath"])
 
-csv_file = csvpath
 # Instantiate a KML Object
 k = kml.KML()
 
@@ -26,12 +24,18 @@ k.from_string(doc)
 features = list(k.features())
 
 # Store all nested features in a list
-primary_nested_features = list(features[0].features())
+nested_features = list(features[0].features())
 
+coordinates_list = []
 
 # Get polygon and calculate random points inside polygon
-for feature in primary_nested_features:
-    points = generate_random_points(5, feature.geometry)
-    streets = get_street(str(points[0].y), str(points[0].x))
-    city = get_city(str(points[0].y), str(points[0].x))
-    write_data_to_csv(csv_file, points, streets, city)
+for feature in nested_features:
+    random_coordinates_list = generate_random_coordinates(5, feature.geometry)
+    for coordinates in random_coordinates_list:
+        coordinates_list.append(coordinates)
+
+write_header('Freiburg')
+
+for coordinates in coordinates_list:
+    street_name = resolve_street_name(str(coordinates.y), str(coordinates.x))
+    write_rows(coordinates, 'Freiburg', street_name)
