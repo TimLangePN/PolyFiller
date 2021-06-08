@@ -1,16 +1,21 @@
 import csv
+import os
 
-schema = ['ZONE_CODE','LAT','LON','CITY','DISPLAY_STREETNAME','GOOGLE_STREETNAME','ZONE_STREET','ZONE_DESCRIPTION','Tariff_range','Unieke ID']
 
-def write_header(city_name):
-    file_name = f'data\\DE_{city_name}.csv'
+schema = ['ZONE_CODE', 'LAT', 'LON', 'CITY', 'DISPLAY_STREETNAME',
+          'GOOGLE_STREETNAME', 'ZONE_STREET', 'ZONE_DESCRIPTION', 'Tariff_range', 'Unieke ID']
 
+
+def write_header(file_name):
+    if os.path.exists(file_name):
+        os.remove(file_name)
     with open(file_name, 'a', newline='') as file_name:
         writer = csv.writer(file_name)
         writer.writerow([header for header in schema])
-        
-def write_rows(coordinate, city_name, street_name):
-    file_name = f'data\\DE_{city_name}.csv'
+
+
+def write_rows(file_name,coordinate, city_name, country_prefix, street_name):
+    file_name = f'data\\{country_prefix}_{city_name}.csv'
 
     display_streetname = street_name
     google_streetname = display_streetname
@@ -18,4 +23,5 @@ def write_rows(coordinate, city_name, street_name):
 
     with open(file_name, 'a', newline='') as file_name:
         writer = csv.writer(file_name)
-        writer.writerow([coordinate.y, coordinate.x, city_name, display_streetname, google_streetname, zone_street])
+        writer.writerow([coordinate.y, coordinate.x, city_name,
+                        display_streetname, google_streetname, zone_street])
