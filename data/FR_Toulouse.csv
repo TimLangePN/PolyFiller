@@ -1,120 +1,99 @@
-ZONE_CODE,LAT,LON,CITY,DISPLAY_STREETNAME,GOOGLE_STREETNAME,ZONE_STREET,ZONE_DESCRIPTION,Tariff_range,Unieke ID
-43.604705480130725,1.4317285758124372,Toulouse,19TER Allée de Brienne,19TER Allée de Brienne,19TER Allée de Brienne
-43.602870016582145,1.4305397423002302,Toulouse,31400,31400,31400
-43.60489390137745,1.4289794775157316,Toulouse,1 Allée du Niger,1 Allée du Niger,1 Allée du Niger
-43.604531749138594,1.4322735513002176,Toulouse,11 Quai Saint-Pierre,11 Quai Saint-Pierre,11 Quai Saint-Pierre
-43.6060851137003,1.4288155349503864,Toulouse,20 Rue des Amidonniers,20 Rue des Amidonniers,20 Rue des Amidonniers
-43.60652853860446,1.4324513007221629,Toulouse,2 B Rue Lejeune,2 B Rue Lejeune,2 B Rue Lejeune
-43.607972753538775,1.4313968020977463,Toulouse,20 Boulevard du Maréchal Leclerc,20 Boulevard du Maréchal Leclerc,20 Boulevard du Maréchal Leclerc
-43.60638840453286,1.4340210026879383,Toulouse,11 Boulevard Armand Duportal,11 Boulevard Armand Duportal,11 Boulevard Armand Duportal
-43.60794698257248,1.4311243375897784,Toulouse,11TER Boulevard du Maréchal Leclerc,11TER Boulevard du Maréchal Leclerc,11TER Boulevard du Maréchal Leclerc
-43.607535300758165,1.4301791825276062,Toulouse,2BIS Rue d'Artagnan,2BIS Rue d'Artagnan,2BIS Rue d'Artagnan
-43.61289738333513,1.43232610001186,Toulouse,Allée Charles Denat,Allée Charles Denat,Allée Charles Denat
-43.61436007022629,1.4335304061028846,Toulouse,21 Boulevard de la Marquette,21 Boulevard de la Marquette,21 Boulevard de la Marquette
-43.61029048043367,1.4334933656543718,Toulouse,7,7,7
-43.61310735150644,1.432770783550142,Toulouse,Allée Charles Denat,Allée Charles Denat,Allée Charles Denat
-43.613597621780556,1.4346646793998366,Toulouse,6 Rue Lucien Lafforgue,6 Rue Lucien Lafforgue,6 Rue Lucien Lafforgue
-43.61391263682417,1.4400764672436088,Toulouse,36 Rue de la Balance,36 Rue de la Balance,36 Rue de la Balance
-43.611763261322935,1.4394606534785008,Toulouse,1 Rue de la Balance,1 Rue de la Balance,1 Rue de la Balance
-43.61525486476018,1.4379401091081037,Toulouse,10 Rue Vauban,10 Rue Vauban,10 Rue Vauban
-43.6122459561445,1.4393374071643128,Toulouse,3 Rue de la Balance,3 Rue de la Balance,3 Rue de la Balance
-43.61588410952273,1.438857631007444,Toulouse,69 Boulevard Matabiau,69 Boulevard Matabiau,69 Boulevard Matabiau
-43.61057609848912,1.4460777292258151,Toulouse,6 Rue Claire Pauilhac,6 Rue Claire Pauilhac,6 Rue Claire Pauilhac
-43.611700174502246,1.452378419829516,Toulouse,15 Boulevard de Bonrepos,15 Boulevard de Bonrepos,15 Boulevard de Bonrepos
-43.61049520277804,1.4495742834635028,Toulouse,8 Rue Guillemin Tarayre,8 Rue Guillemin Tarayre,8 Rue Guillemin Tarayre
-43.611253160143995,1.4506905556584937,Toulouse,32 Rue Guillemin Tarayre,32 Rue Guillemin Tarayre,32 Rue Guillemin Tarayre
-43.611165925146004,1.4458046766054942,Toulouse,23 Rue Roquelaine,23 Rue Roquelaine,23 Rue Roquelaine
-43.60690567146495,1.4478679337843245,Toulouse,12 Boulevard de Strasbourg,12 Boulevard de Strasbourg,12 Boulevard de Strasbourg
-43.609821624614845,1.4497811605238113,Toulouse,42 Rue de Bayard,42 Rue de Bayard,42 Rue de Bayard
-43.606339213902054,1.449439376465487,Toulouse,23 Allée Jean Jaurès,23 Allée Jean Jaurès,23 Allée Jean Jaurès
-43.60848693445019,1.451293764026344,Toulouse,5 Rue de Belfort,5 Rue de Belfort,5 Rue de Belfort
-43.60921527093382,1.4532191176031017,Toulouse,77 Allée Jean Jaurès,77 Allée Jean Jaurès,77 Allée Jean Jaurès
-43.606019430797026,1.4555100801543044,Toulouse,34 Rue Gabriel Péri,34 Rue Gabriel Péri,34 Rue Gabriel Péri
-43.605548109889504,1.4535319313086916,Toulouse,19BIS Rue Albanie Regourd,19BIS Rue Albanie Regourd,19BIS Rue Albanie Regourd
-43.606947277496225,1.4519015651441396,Toulouse,26 Rue Bachelier,26 Rue Bachelier,26 Rue Bachelier
-43.60722979931068,1.4533351883053869,Toulouse,50 Rue des Sept Troubadours,50 Rue des Sept Troubadours,50 Rue des Sept Troubadours
-43.60556616966184,1.452305007583715,Toulouse,26 Rue Jean Palaprat,26 Rue Jean Palaprat,26 Rue Jean Palaprat
-43.601869076603286,1.4547258226837152,Toulouse,49 Rue Sylvain Dauriac,49 Rue Sylvain Dauriac,49 Rue Sylvain Dauriac
-43.60057314620359,1.4534100243478683,Toulouse,3 Rue Pierre-Paul Riquet,3 Rue Pierre-Paul Riquet,3 Rue Pierre-Paul Riquet
-43.60454133153153,1.4555198507528366,Toulouse,73 Rue de la Colombette,73 Rue de la Colombette,73 Rue de la Colombette
-43.603005706333605,1.4537930580179628,Toulouse,50 Rue d'Aubuisson,50 Rue d'Aubuisson,50 Rue d'Aubuisson
-43.60208346611795,1.4524126420900128,Toulouse,6 Rue de Caraman,6 Rue de Caraman,6 Rue de Caraman
-43.597494884784844,1.442235435867729,Toulouse,35 Rue de la Dalbade,35 Rue de la Dalbade,35 Rue de la Dalbade
-43.598197715630775,1.443062386995955,Toulouse,2 Rue des Paradoux,2 Rue des Paradoux,2 Rue des Paradoux
-43.59250230252091,1.4392836353804068,Toulouse,Pont Saint-Michel,Pont Saint-Michel,Pont Saint-Michel
-43.596029237036994,1.4433041257117896,Toulouse,9 Rue Saint-Rémésy,9 Rue Saint-Rémésy,9 Rue Saint-Rémésy
-43.599708157263976,1.4413172211561265,Toulouse,2 Rue de Metz,2 Rue de Metz,2 Rue de Metz
-43.593211341102936,1.4376252502933458,Toulouse,31400,31400,31400
-43.593665564073824,1.4351582948935009,Toulouse,15 Rue Laganne,15 Rue Laganne,15 Rue Laganne
-43.59401730562743,1.4382545152541644,Toulouse,31400,31400,31400
-43.59844592342263,1.436124140160557,Toulouse,14 Rue de la République,14 Rue de la République,14 Rue de la République
-43.59617499537517,1.4342628173959424,Toulouse,7 Rue des Feuillants,7 Rue des Feuillants,7 Rue des Feuillants
-43.599841195283965,1.4377365730314473,Toulouse,31400,31400,31400
-43.6015912918621,1.4336294698529304,Toulouse,Quai Exil Républicain Espagnol,Quai Exil Républicain Espagnol,Quai Exil Républicain Espagnol
-43.59890938582682,1.436569191051441,Toulouse,1 Rue Viguerie,1 Rue Viguerie,1 Rue Viguerie
-43.600463840018655,1.4333400330461552,Toulouse,21BIS Rue du Pont Saint-Pierre,21BIS Rue du Pont Saint-Pierre,21BIS Rue du Pont Saint-Pierre
-43.60243347432104,1.4284747703462495,Toulouse,Pont des Catalans,Pont des Catalans,Pont des Catalans
-43.600279199021806,1.4381442175956016,Toulouse,31400,31400,31400
-43.60019765904699,1.4406145922770486,Toulouse,9 Rue des Lanternières,9 Rue des Lanternières,9 Rue des Lanternières
-43.600735317042215,1.4393695246084395,Toulouse,5 Quai de la Daurade,5 Quai de la Daurade,5 Quai de la Daurade
-43.600409692149334,1.4406555416441749,Toulouse,11 Rue Peyrolières,11 Rue Peyrolières,11 Rue Peyrolières
-43.60172260897953,1.438641184677486,Toulouse,19 Place de la Daurade,19 Place de la Daurade,19 Place de la Daurade
-43.606434536034115,1.4402100695277422,Toulouse,1 Rue Urbain Vitry,1 Rue Urbain Vitry,1 Rue Urbain Vitry
-43.60536213638172,1.438720138072863,Toulouse,6 Rue de la Bastide,6 Rue de la Bastide,6 Rue de la Bastide
-43.60849895647933,1.436902447960171,Toulouse,7 Place Saint-Julien,7 Place Saint-Julien,7 Place Saint-Julien
-43.605760060064874,1.4402139078574894,Toulouse,11 Rue Urbain Vitry,11 Rue Urbain Vitry,11 Rue Urbain Vitry
-43.60428703245354,1.4357514296401224,Toulouse,12 PLACE SAINT-PIERRE,12 PLACE SAINT-PIERRE,12 PLACE SAINT-PIERRE
-43.60680543376175,1.4452064560029991,Toulouse,46 Rue de Rémusat,46 Rue de Rémusat,46 Rue de Rémusat
-43.60573984416142,1.4417093232698228,Toulouse,28 Rue des Lois,28 Rue des Lois,28 Rue des Lois
-43.608933206186094,1.4443695594171542,Toulouse,18 Rue Saint-Bernard,18 Rue Saint-Bernard,18 Rue Saint-Bernard
-43.6086279458105,1.4432124436804592,Toulouse,4 Rue Saint-Bernard,4 Rue Saint-Bernard,4 Rue Saint-Bernard
-43.60884871278366,1.445060288929181,Toulouse,45 Boulevard de Strasbourg,45 Boulevard de Strasbourg,45 Boulevard de Strasbourg
-43.60899449034552,1.4414157342639005,Toulouse,1 Rue des Cuves Saint-Sernin,1 Rue des Cuves Saint-Sernin,1 Rue des Cuves Saint-Sernin
-43.609372995058145,1.4409291875285133,Toulouse,8 Rue Gatien Arnoult,8 Rue Gatien Arnoult,8 Rue Gatien Arnoult
-43.60869843287282,1.4410133845170727,Toulouse,3 Place Saint-Sernin,3 Place Saint-Sernin,3 Place Saint-Sernin
-43.611282157066746,1.4389094134516403,Toulouse,9BIS Place Arnaud Bernard,9BIS Place Arnaud Bernard,9BIS Place Arnaud Bernard
-43.61129722144689,1.4388179723217258,Toulouse,9BIS Place Arnaud Bernard,9BIS Place Arnaud Bernard,9BIS Place Arnaud Bernard
-43.60214927897912,1.450266968906459,Toulouse,16 Rue des Pénitents Blancs,16 Rue des Pénitents Blancs,16 Rue des Pénitents Blancs
-43.607304429453215,1.446520743219293,Toulouse,8 Rue du Rempart Matabiau,8 Rue du Rempart Matabiau,8 Rue du Rempart Matabiau
-43.605282454732304,1.4480949538921555,Toulouse,8 Allées du Président Franklin Roosevelt,8 Allées du Président Franklin Roosevelt,8 Allées du Président Franklin Roosevelt
-43.60101146721246,1.4479319736379062,Toulouse,29 Rue Boulbonne,29 Rue Boulbonne,29 Rue Boulbonne
-43.606613290272115,1.4458372502114771,Toulouse,46 Rue d'Alsace-Lorraine,46 Rue d'Alsace-Lorraine,46 Rue d'Alsace-Lorraine
-43.61452396892889,1.4436606591710794,Toulouse,53 Rue du Printemps,53 Rue du Printemps,53 Rue du Printemps
-43.6155932147925,1.439637170360309,Toulouse,88BIS Rue des Chalets,88BIS Rue des Chalets,88BIS Rue des Chalets
-43.61563405657064,1.4395994705048396,Toulouse,90 Rue des Chalets,90 Rue des Chalets,90 Rue des Chalets
-43.611712838308065,1.4446860440291456,Toulouse,19 Rue de la Concorde,19 Rue de la Concorde,19 Rue de la Concorde
-43.61380996491025,1.4503285066780074,Toulouse,1 Boulevard Matabiau,1 Boulevard Matabiau,1 Boulevard Matabiau
-43.609712438212334,1.4314802891673817,Toulouse,20 Boulevard Lascrosses,20 Boulevard Lascrosses,20 Boulevard Lascrosses
-43.60942537373112,1.4293478196252707,Toulouse,12 Impasse de Sébastopol,12 Impasse de Sébastopol,12 Impasse de Sébastopol
-43.61158428456779,1.4313295740098562,Toulouse,6 Place Alfonse Jourdain,6 Place Alfonse Jourdain,6 Place Alfonse Jourdain
-43.60996721579388,1.4321288943994288,Toulouse,Cheminement André Malraux,Cheminement André Malraux,Cheminement André Malraux
-43.60944885642299,1.4297070297403232,Toulouse,1 Impasse de Sébastopol,1 Impasse de Sébastopol,1 Impasse de Sébastopol
-43.600015846966755,1.4532540481934046,Toulouse,28 Place Dominique Martin Dupuy,28 Place Dominique Martin Dupuy,28 Place Dominique Martin Dupuy
-43.59762007573502,1.4524768576300298,Toulouse,8 Allée Forain François Verdier,8 Allée Forain François Verdier,8 Allée Forain François Verdier
-43.59750044217116,1.4541624778561613,Toulouse,12 Rue des Potiers,12 Rue des Potiers,12 Rue des Potiers
-43.5992930222511,1.4540109165214872,Toulouse,33 Rue des Potiers,33 Rue des Potiers,33 Rue des Potiers
-43.59998668340267,1.4525153746096742,Toulouse,48 Allée Forain François Verdier,48 Allée Forain François Verdier,48 Allée Forain François Verdier
-43.594577407352,1.455303341605163,Toulouse,10 Allée des Soupirs,10 Allée des Soupirs,10 Allée des Soupirs
-43.59504472519524,1.4548782988325841,Toulouse,4 Rue Abel Autefage,4 Rue Abel Autefage,4 Rue Abel Autefage
-43.595162737047644,1.4555445146813712,Toulouse,5 Rue Jean Aillet,5 Rue Jean Aillet,5 Rue Jean Aillet
-43.59625115964124,1.4545625808410978,Toulouse,8 Allée Paul Sabatier,8 Allée Paul Sabatier,8 Allée Paul Sabatier
-43.594969226222126,1.4558752114963511,Toulouse,5 Port Saint-Sauveur,5 Port Saint-Sauveur,5 Port Saint-Sauveur
-43.589837921636075,1.4597126542697225,Toulouse,Promenade du Docteur Albert Sallet,Promenade du Docteur Albert Sallet,Promenade du Docteur Albert Sallet
-43.5916765325564,1.4542182159067663,Toulouse,6 Rue des Martyrs de la Libération,6 Rue des Martyrs de la Libération,6 Rue des Martyrs de la Libération
-43.59242310489844,1.4568066007383593,Toulouse,52 Rue Monplaisir,52 Rue Monplaisir,52 Rue Monplaisir
-43.59241119148296,1.4557979808006436,Toulouse,29 Rue Monplaisir,29 Rue Monplaisir,29 Rue Monplaisir
-43.5893223624082,1.460069613585053,Toulouse,11 Boulevard Bernard Griffoul-Dorval,11 Boulevard Bernard Griffoul-Dorval,11 Boulevard Bernard Griffoul-Dorval
-43.59002497413183,1.4452451733676055,Toulouse,8 Rue Poudèpe,8 Rue Poudèpe,8 Rue Poudèpe
-43.58947512305979,1.4484199121778525,Toulouse,35 Rue Notre-Dame,35 Rue Notre-Dame,35 Rue Notre-Dame
-43.591710449199844,1.4453309409256778,Toulouse,158 Grande Rue Saint-Michel,158 Grande Rue Saint-Michel,158 Grande Rue Saint-Michel
-43.59233763979063,1.445421650534215,Toulouse,13 Place Auguste Lafourcade,13 Place Auguste Lafourcade,13 Place Auguste Lafourcade
-43.59012396279063,1.447306306133558,Toulouse,42 BIS Rue Sainte-Catherine,42 BIS Rue Sainte-Catherine,42 BIS Rue Sainte-Catherine
-43.591876888577765,1.4413901768311186,Toulouse,26 Boulevard du Maréchal Juin,26 Boulevard du Maréchal Juin,26 Boulevard du Maréchal Juin
-43.5913407764737,1.4439073219959013,Toulouse,18 Rue Mespoul,18 Rue Mespoul,18 Rue Mespoul
-43.58969240133243,1.4424766249702146,Toulouse,4 Rue des Gallois,4 Rue des Gallois,4 Rue des Gallois
-43.591792274186695,1.4437892414196316,Toulouse,3 Rue des Sabots,3 Rue des Sabots,3 Rue des Sabots
-43.59135049146371,1.4419817787044986,Toulouse,3 Rue des Menuisiers,3 Rue des Menuisiers,3 Rue des Menuisiers
-43.59391926817728,1.4503531492097554,Toulouse,35 Allée des Justes des Nations,35 Allée des Justes des Nations,35 Allée des Justes des Nations
-43.59498993877619,1.4513822941454924,Toulouse,41 Allées Jules Guesde,41 Allées Jules Guesde,41 Allées Jules Guesde
-43.59149938303034,1.4518242786422846,Toulouse,98 Rue Alfred Duméril,98 Rue Alfred Duméril,98 Rue Alfred Duméril
-43.59299135954856,1.450136429394177,Toulouse,Allée des Justes des Nations,Allée des Justes des Nations,Allée des Justes des Nations
+ZONE_CODE;LAT;LON;CITY;DISPLAY_STREETNAME;GOOGLE_STREETNAME;ZONE_STREET;ZONE_DESCRIPTION;Tariff_range;Unieke ID
+43.6045329303235;1.4321136919913717;Toulouse;11 Quai Saint-Pierre;11 Quai Saint-Pierre;11 Quai Saint-Pierre;2 - 2,99;FRTOU0
+43.60555656323385;1.431534811468915;Toulouse;21 Allée de Brienne;21 Allée de Brienne;21 Allée de Brienne;2 - 2,99;FRTOU1
+43.60614728417168;1.428984415130072;Toulouse;18 Rue des Amidonniers;18 Rue des Amidonniers;18 Rue des Amidonniers;2 - 2,99;FRTOU2
+43.60299362873263;1.4300367225132429;Toulouse;31400;31400;31400;2 - 2,99;FRTOU3
+43.60462221194726;1.4292034294759517;Toulouse;2 Allée du Niger;2 Allée du Niger;2 Allée du Niger;2 - 2,99;FRTOU4
+43.60860020249312;1.4317910146522146;Toulouse;23BIS Boulevard du Maréchal Leclerc;23BIS Boulevard du Maréchal Leclerc;23BIS Boulevard du Maréchal Leclerc;2 - 2,99;FRTOU5
+43.606901840469774;1.4340932869014051;Toulouse;6BIS Rue Lejeune;6BIS Rue Lejeune;6BIS Rue Lejeune;2 - 2,99;FRTOU6
+43.60884511670749;1.4332232198420447;Toulouse;15 Rue de Lordat;15 Rue de Lordat;15 Rue de Lordat;2 - 2,99;FRTOU7
+43.60684678694747;1.4340328221406153;Toulouse;6BIS Rue Lejeune;6BIS Rue Lejeune;6BIS Rue Lejeune;2 - 2,99;FRTOU8
+43.60679166897275;1.4305730477103844;Toulouse;2 Boulevard du Maréchal Leclerc;2 Boulevard du Maréchal Leclerc;2 Boulevard du Maréchal Leclerc;2 - 2,99;FRTOU9
+43.613373556167;1.433414488333878;Toulouse;7 Rue Lucien Lafforgue;7 Rue Lucien Lafforgue;7 Rue Lucien Lafforgue;2 - 2,99;FRTOU10
+43.6147230136623;1.433325615373221;Toulouse;20 Boulevard de la Marquette;20 Boulevard de la Marquette;20 Boulevard de la Marquette;2 - 2,99;FRTOU11
+43.61463861211032;1.4367949858520783;Toulouse;5 Rue de Grèce;5 Rue de Grèce;5 Rue de Grèce;2 - 2,99;FRTOU12
+43.61088378095137;1.433616969027454;Toulouse;Allée Charles Denat;Allée Charles Denat;Allée Charles Denat;2 - 2,99;FRTOU13
+43.61079086879353;1.4348355445936023;Toulouse;7-8 Esplanade Compans Caffarelli;7-8 Esplanade Compans Caffarelli;7-8 Esplanade Compans Caffarelli;2 - 2,99;FRTOU14
+43.61376364790249;1.4401649264151806;Toulouse;36 Rue de la Balance;36 Rue de la Balance;36 Rue de la Balance;2 - 2,99;FRTOU15
+43.61339285920625;1.4383332864925822;Toulouse;26 Avenue Honoré Serres;26 Avenue Honoré Serres;26 Avenue Honoré Serres;2 - 2,99;FRTOU16
+43.61486839477775;1.4388434757946051;Toulouse;26BIS Impasse Mas;26BIS Impasse Mas;26BIS Impasse Mas;2 - 2,99;FRTOU17
+43.61261342185518;1.439596905489415;Toulouse;9 Rue de la Balance;9 Rue de la Balance;9 Rue de la Balance;2 - 2,99;FRTOU18
+43.6128667332611;1.4384381902700139;Toulouse;20 Avenue Honoré Serres;20 Avenue Honoré Serres;20 Avenue Honoré Serres;2 - 2,99;FRTOU19
+43.61126640041213;1.4510227221307084;Toulouse;9 Rue Agathoise;9 Rue Agathoise;9 Rue Agathoise;2 - 2,99;FRTOU20
+43.60932312174356;1.4466771309557032;Toulouse;10 Place Jeanne d'Arc;10 Place Jeanne d'Arc;10 Place Jeanne d'Arc;2 - 2,99;FRTOU21
+43.61085657259152;1.4459417688204896;Toulouse;26 Rue Roquelaine;26 Rue Roquelaine;26 Rue Roquelaine;2 - 2,99;FRTOU22
+43.61068416419675;1.4479425497799865;Toulouse;15 Rue de l'Orient;15 Rue de l'Orient;15 Rue de l'Orient;2 - 2,99;FRTOU23
+43.61186352671144;1.4520438633137045;Toulouse;15BIS Boulevard de Bonrepos;15BIS Boulevard de Bonrepos;15BIS Boulevard de Bonrepos;2 - 2,99;FRTOU24
+43.60844782999785;1.4485436656300616;Toulouse;24 Rue Jacques Laffitte;24 Rue Jacques Laffitte;24 Rue Jacques Laffitte;2 - 2,99;FRTOU25
+43.60944451071287;1.4538115499741913;Toulouse;2 B Boulevard de Bonrepos;2 B Boulevard de Bonrepos;2 B Boulevard de Bonrepos;2 - 2,99;FRTOU26
+43.60905295402355;1.4512284747134436;Toulouse;12 Rue Bertrand de Born;12 Rue Bertrand de Born;12 Rue Bertrand de Born;2 - 2,99;FRTOU27
+43.60940656858971;1.4515224807115383;Toulouse;10 Rue de Stalingrad;10 Rue de Stalingrad;10 Rue de Stalingrad;2 - 2,99;FRTOU28
+43.60974038607011;1.4514256481890333;Toulouse;4 Rue Lafon;4 Rue Lafon;4 Rue Lafon;2 - 2,99;FRTOU29
+43.60524496449264;1.4518822674638332;Toulouse;7 Rue Jean Palaprat;7 Rue Jean Palaprat;7 Rue Jean Palaprat;2 - 2,99;FRTOU30
+43.60775291427206;1.452254342912544;Toulouse;68BIS Allée Jean Jaurès;68BIS Allée Jean Jaurès;68BIS Allée Jean Jaurès;2 - 2,99;FRTOU31
+43.607841512971966;1.4522101852734444;Toulouse;68BIS Allée Jean Jaurès;68BIS Allée Jean Jaurès;68BIS Allée Jean Jaurès;2 - 2,99;FRTOU32
+43.605556918945226;1.4525680678633053;Toulouse;24 Rue Jean Palaprat;24 Rue Jean Palaprat;24 Rue Jean Palaprat;2 - 2,99;FRTOU33
+43.60574686811498;1.455467829775202;Toulouse;10 Rue Amélie;10 Rue Amélie;10 Rue Amélie;2 - 2,99;FRTOU34
+43.60403110017919;1.4541555253873695;Toulouse;43 Rue Pierre-Paul Riquet;43 Rue Pierre-Paul Riquet;43 Rue Pierre-Paul Riquet;2 - 2,99;FRTOU35
+43.60107835017061;1.4562293062946088;Toulouse;40 RUE DE L' ÉTOILE;40 RUE DE L' ÉTOILE;40 RUE DE L' ÉTOILE;2 - 2,99;FRTOU36
+43.60260115941301;1.452961453407527;Toulouse;17 Rue de Caraman;17 Rue de Caraman;17 Rue de Caraman;2 - 2,99;FRTOU37
+43.60228276718762;1.4538109769607575;Toulouse;33 Rue de Caraman;33 Rue de Caraman;33 Rue de Caraman;2 - 2,99;FRTOU38
+43.604021479260716;1.456831514236988;Toulouse;13 Boulevard Pierre-Paul Riquet;13 Boulevard Pierre-Paul Riquet;13 Boulevard Pierre-Paul Riquet;2 - 2,99;FRTOU39
+43.59924331871424;1.4409362915408954;Toulouse;17 Descente de la Halle aux Poissons;17 Descente de la Halle aux Poissons;17 Descente de la Halle aux Poissons;2 - 2,99;FRTOU40
+43.593123281865296;1.442975827544852;Toulouse;4 Avenue Maurice Hauriou;4 Avenue Maurice Hauriou;4 Avenue Maurice Hauriou;2 - 2,99;FRTOU41
+43.599318901140514;1.4453606469304487;Toulouse;6 Place Rouaix;6 Place Rouaix;6 Place Rouaix;2 - 2,99;FRTOU42
+43.595093827197836;1.4445250300678394;Toulouse;2 Impasse de la Trésorerie;2 Impasse de la Trésorerie;2 Impasse de la Trésorerie;2 - 2,99;FRTOU43
+43.59676068723421;1.4428230941975686;Toulouse;24 Rue de la Dalbade;24 Rue de la Dalbade;24 Rue de la Dalbade;2 - 2,99;FRTOU44
+43.59819812538918;1.4338267188773222;Toulouse;46 Rue de la République;46 Rue de la République;46 Rue de la République;2 - 2,99;FRTOU45
+43.59658091818732;1.434575883161955;Toulouse;9 Rue des Teinturiers;9 Rue des Teinturiers;9 Rue des Teinturiers;2 - 2,99;FRTOU46
+43.59772075541214;1.4368865156779902;Toulouse;18 PLACE LAGANNE;18 PLACE LAGANNE;18 PLACE LAGANNE;2 - 2,99;FRTOU47
+43.59840149223503;1.4387528355142145;Toulouse;31400;31400;31400;2 - 2,99;FRTOU48
+43.5975482483462;1.4316400831694058;Toulouse;2 Place Intérieure Saint-Cyprien;2 Place Intérieure Saint-Cyprien;2 Place Intérieure Saint-Cyprien;2 - 2,99;FRTOU49
+43.598395356939434;1.4325398891232992;Toulouse;55 Rue de la République;55 Rue de la République;55 Rue de la République;2 - 2,99;FRTOU50
+43.60139710879098;1.4291262736533006;Toulouse;5 Allée Charles Malpel;5 Allée Charles Malpel;5 Allée Charles Malpel;2 - 2,99;FRTOU51
+43.599202565835334;1.4351470438849059;Toulouse;22 Grande Rue Saint-Nicolas;22 Grande Rue Saint-Nicolas;22 Grande Rue Saint-Nicolas;2 - 2,99;FRTOU52
+43.59870589416248;1.4322873614564293;Toulouse;5 Rue du Pont Saint-Pierre;5 Rue du Pont Saint-Pierre;5 Rue du Pont Saint-Pierre;2 - 2,99;FRTOU53
+43.60118020533631;1.4335488468143194;Toulouse;1 Place Lange;1 Place Lange;1 Place Lange;2 - 2,99;FRTOU54
+43.600174864976026;1.4391763313753385;Toulouse;31400;31400;31400;2 - 2,99;FRTOU55
+43.60003854206619;1.44164247291649;Toulouse;7 Rue de Metz;7 Rue de Metz;7 Rue de Metz;2 - 2,99;FRTOU56
+43.604387272404914;1.439887611496433;Toulouse;69 Rue Pargaminières;69 Rue Pargaminières;69 Rue Pargaminières;2 - 2,99;FRTOU57
+43.60225194573017;1.4378119485643812;Toulouse;19 Rue des Blanchers;19 Rue des Blanchers;19 Rue des Blanchers;2 - 2,99;FRTOU58
+43.60238400800585;1.4411583610618988;Toulouse;10 Rue Léon Gambetta;10 Rue Léon Gambetta;10 Rue Léon Gambetta;2 - 2,99;FRTOU59
+43.6066625010624;1.4397347288692777;Toulouse;14 Rue Urbain Vitry;14 Rue Urbain Vitry;14 Rue Urbain Vitry;2 - 2,99;FRTOU60
+43.604309599134815;1.4344831470289132;Toulouse;6BIS Allée de Barcelone;6BIS Allée de Barcelone;6BIS Allée de Barcelone;2 - 2,99;FRTOU61
+43.60495146095716;1.442498484669866;Toulouse;4 Rue des Lois;4 Rue des Lois;4 Rue des Lois;2 - 2,99;FRTOU62
+43.60478765342304;1.438113662228067;Toulouse;6 Rue de la Bastide;6 Rue de la Bastide;6 Rue de la Bastide;2 - 2,99;FRTOU63
+43.60525415515109;1.4370531249328002;Toulouse;31 Rue Valade;31 Rue Valade;31 Rue Valade;2 - 2,99;FRTOU64
+43.60720307911743;1.441643042654122;Toulouse;1 Rue des Trois Renards;1 Rue des Trois Renards;1 Rue des Trois Renards;2 - 2,99;FRTOU65
+43.607202018818086;1.4428617083925814;Toulouse;8 Rue du Périgord;8 Rue du Périgord;8 Rue du Périgord;2 - 2,99;FRTOU66
+43.60677830320709;1.4409583299156983;Toulouse;34 T Rue des Lois;34 T Rue des Lois;34 T Rue des Lois;2 - 2,99;FRTOU67
+43.60846778194425;1.4442028330170822;Toulouse;13 Rue de Bellegarde;13 Rue de Bellegarde;13 Rue de Bellegarde;2 - 2,99;FRTOU68
+43.60668710463923;1.4415210919230852;Toulouse;3 Rue de l'Esquile;3 Rue de l'Esquile;3 Rue de l'Esquile;2 - 2,99;FRTOU69
+43.60973615462758;1.439691839203975;Toulouse;6 Rue de Gramat;6 Rue de Gramat;6 Rue de Gramat;2 - 2,99;FRTOU70
+43.610564167434624;1.4423069791730567;Toulouse;7 Boulevard d'Arcole;7 Boulevard d'Arcole;7 Boulevard d'Arcole;2 - 2,99;FRTOU71
+43.61031144154656;1.4417237485643382;Toulouse;8 Rue Jean Rancy;8 Rue Jean Rancy;8 Rue Jean Rancy;2 - 2,99;FRTOU72
+43.60934388344933;1.4400983351635244;Toulouse;18 Rue Gatien Arnoult;18 Rue Gatien Arnoult;18 Rue Gatien Arnoult;2 - 2,99;FRTOU73
+43.61112091909674;1.4391943719315416;Toulouse;37 Rue Escoussières Arnaud Bernard;37 Rue Escoussières Arnaud Bernard;37 Rue Escoussières Arnaud Bernard;2 - 2,99;FRTOU74
+43.60262443190085;1.449813735253942;Toulouse;17 Place Occitane;17 Place Occitane;17 Place Occitane;2 - 2,99;FRTOU75
+43.60549542506152;1.4486775088757018;Toulouse;16 Allées du Président Franklin Roosevelt;16 Allées du Président Franklin Roosevelt;16 Allées du Président Franklin Roosevelt;2 - 2,99;FRTOU76
+43.60120972677352;1.4502384890691689;Toulouse;8 Rue Joseph de Malaret;8 Rue Joseph de Malaret;8 Rue Joseph de Malaret;2 - 2,99;FRTOU77
+43.60119667325694;1.4470410210249882;Toulouse;20 Rue des Arts;20 Rue des Arts;20 Rue des Arts;2 - 2,99;FRTOU78
+43.60285204742219;1.4479571553236557;Toulouse;11 Rue Paul Vidal de la Blache;11 Rue Paul Vidal de la Blache;11 Rue Paul Vidal de la Blache;2 - 2,99;FRTOU79
+43.61329455552173;1.444272343022389;Toulouse;46 Rue du Capitaine Escudié;46 Rue du Capitaine Escudié;46 Rue du Capitaine Escudié;2 - 2,99;FRTOU80
+43.613793757924505;1.4491794581612918;Toulouse;12 Rue Alessandro Volta;12 Rue Alessandro Volta;12 Rue Alessandro Volta;2 - 2,99;FRTOU81
+43.61342583945219;1.4477536435934706;Toulouse;21 Rue du Commissaire Phillipe;21 Rue du Commissaire Phillipe;21 Rue du Commissaire Phillipe;2 - 2,99;FRTOU82
+43.61266921527356;1.442037255590639;Toulouse;32 Rue des Chalets;32 Rue des Chalets;32 Rue des Chalets;2 - 2,99;FRTOU83
+43.613172033757564;1.4468672217672336;Toulouse;14 Rue de Saint-Papoul;14 Rue de Saint-Papoul;14 Rue de Saint-Papoul;2 - 2,99;FRTOU84
+43.610824105908875;1.431422188742595;Toulouse;4 Place Alfonse Jourdain;4 Place Alfonse Jourdain;4 Place Alfonse Jourdain;2 - 2,99;FRTOU85
+43.61014457844469;1.4301885774150271;Toulouse;1 Rue de Sébastopol;1 Rue de Sébastopol;1 Rue de Sébastopol;2 - 2,99;FRTOU86
+43.61014390365321;1.431859600077555;Toulouse;Cheminement André Malraux;Cheminement André Malraux;Cheminement André Malraux;2 - 2,99;FRTOU87
+43.60964589410841;1.4298032773571958;Toulouse;1 Impasse de Sébastopol;1 Impasse de Sébastopol;1 Impasse de Sébastopol;2 - 2,99;FRTOU88
+43.61164922221476;1.4316586845014403;Toulouse;6 Place Alfonse Jourdain;6 Place Alfonse Jourdain;6 Place Alfonse Jourdain;2 - 2,99;FRTOU89
+43.598058416975356;1.452437788545979;Toulouse;16 B Allée Forain François Verdier;16 B Allée Forain François Verdier;16 B Allée Forain François Verdier;2 - 2,99;FRTOU90
+43.59726305221534;1.4545329208745188;Toulouse;11 Allée Paul Sabatier;11 Allée Paul Sabatier;11 Allée Paul Sabatier;2 - 2,99;FRTOU91
+43.59834501258583;1.456025292125706;Toulouse;35 Port Saint-Sauveur;35 Port Saint-Sauveur;35 Port Saint-Sauveur;2 - 2,99;FRTOU92
+43.59795215825339;1.4540063289813143;Toulouse;8 B Rue des Potiers;8 B Rue des Potiers;8 B Rue des Potiers;2 - 2,99;FRTOU93
+43.59791262114292;1.454587856489883;Toulouse;6BIS Rue Jacques Labatut;6BIS Rue Jacques Labatut;6BIS Rue Jacques Labatut;2 - 2,99;FRTOU94
+43.59490143087912;1.4560931705142752;Toulouse;5 Port Saint-Sauveur;5 Port Saint-Sauveur;5 Port Saint-Sauveur;3 - 3,99;FRTOU95
+43.59504001029111;1.4543765830318978;Toulouse;2 Allée des Soupirs;2 Allée des Soupirs;2 Allée des Soupirs;3 - 3,99;FRTOU96
+43.594846977821746;1.4554199887021353;Toulouse;8 Rue Abel Autefage;8 Rue Abel Autefage;8 Rue Abel Autefage;3 - 3,99;FRTOU97
