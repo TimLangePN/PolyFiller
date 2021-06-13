@@ -26,10 +26,11 @@ write_header(file_name)
 nested_features = list(features[0].features())
 
 # To be made dynamically so the client delegates the amount of random generated coordinates within a feature
-amount_of_random_generated_coordinates = 1
+amount_of_random_generated_coordinates = 5
 
 # Initiliaze a counter that we increase per iteration, this is passed to the 'unique_id' variable
 counter = 1
+increment_const = 1
 
 for feature in nested_features:
 
@@ -44,12 +45,11 @@ for feature in nested_features:
     # Compute N random computed coordinates within the bounds of a feature.geometry object
     random_coordinates_list = generate_random_coordinates(amount_of_random_generated_coordinates, feature_geometry_obj)
 
-    # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature     nested_features[0]._features[0]._geometry.geometry
+    # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
     tariff_range = resolve_tariff_range(feature.styleUrl)
 
     #grab the zone_code from the attribute name
     zone_code = feature.name
-
     zone_description = f'{city_name} - Zone {zone_code}'
 
     # Initialize a list that is used for storing N random generated points per feature
@@ -72,4 +72,4 @@ for feature in nested_features:
         write_rows(file_name,zone_code, coordinates, city_name, country_prefix, street_name, tariff_range, zone_description, unique_id)
 
         # Increment counter per iteration
-        counter += 1
+        counter += increment_const
