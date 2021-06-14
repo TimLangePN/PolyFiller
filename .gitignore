@@ -137,5 +137,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Json > Python file variables
-.vscode/load.json
+# Python env variables
+.vscode/settings.json
+
+# Json file to store API keys in
+.secrets.json

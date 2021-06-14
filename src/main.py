@@ -30,7 +30,6 @@ amount_of_random_generated_coordinates = 5
 
 # Initiliaze a counter that we increase per iteration, this is passed to the 'unique_id' variable
 counter = 1
-increment_const = 1
 
 for feature in nested_features:
 
@@ -65,11 +64,5 @@ for feature in nested_features:
         # Retrieve the street name for a computed random generated coordinate 
         street_name = resolve_street_name(str(coordinates.y), str(coordinates.x))
 
-        # Calculate and construct the 'unique_id'
-        unique_id = f'{country_prefix}{city_name[0:3].upper()}{counter}'
-
-        # Persist row as record to file
-        write_rows(file_name,zone_code, coordinates, city_name, country_prefix, street_name, tariff_range, zone_description, unique_id)
-
-        # Increment counter per iteration
-        counter += increment_const
+        # Persist row as record to file and increment the counter
+        counter = write_rows(file_name, zone_code, coordinates, city_name, country_prefix, street_name, tariff_range, zone_description, counter)

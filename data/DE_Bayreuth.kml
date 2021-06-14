@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>DE_Bayreuth</name>
+<Style id="style1">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>ffb87e37</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Placemark>
+<name>1 - 1,99</name>
+<description><![CDATA[<p>Tariff: 1 - 1,99
+<br/>Unieke_ID: DEBAY01</p>]]></description>
+<ExtendedData>
+	<Data name="Tariff"><displayName>Tariff</displayName><value><![CDATA[1 - 1,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEBAY01]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.5782271,49.9432209,0.00000
+					11.5786081,49.943113,0.00000
+					11.5782755,49.9426529,0.00000
+					11.5781011,49.9426978,0.00000
+					11.5780636,49.9426564,0.00000
+					11.5778785,49.9427082,0.00000
+					11.5782271,49.9432209,0.00000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>1 - 1,99</name>
+<description><![CDATA[<p>Tariff: 1 - 1,99
+<br/>Unieke_ID: DEBAY02</p>]]></description>
+<ExtendedData>
+	<Data name="Tariff"><displayName>Tariff</displayName><value><![CDATA[1 - 1,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEBAY02]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.5784328,49.9427438,0.00000
+					11.5785052,49.942723,0.00000
+					11.5783577,49.9425038,0.00000
+					11.5778689,49.9425919,0.00000
+					11.5777998,49.9426471,0.00000
+					11.5778454,49.9426799,0.00000
+					11.5782933,49.9425608,0.00000
+					11.5784328,49.9427438,0.00000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>
