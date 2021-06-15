@@ -13,28 +13,16 @@ def write_header(file_name):
 def write_rows(file_name, zone_code, coordinate, city_name, country_prefix, street_name, tariff_range, zone_description, counter):
     file_name = f'data\\{country_prefix}_{city_name}.csv'
 
-    if file_name is None:
-        return counter
-    elif zone_code is None:
-        return counter
-    elif coordinate is None:
-        return counter
-    elif city_name is None:
-        return counter
-    elif country_prefix is None:
-        return counter
-    elif street_name is None:
-        return counter
-    elif tariff_range is None:
-        return counter
-    elif zone_description is None:
+    # Loops through the given parameters in parameter_list and skips a line if any of them equal to None
+    parameter_list = [zone_code, coordinate, city_name, country_prefix, street_name, tariff_range, zone_description, counter]
+    if any(parameters == None for parameters in parameter_list):
         return counter
 
     display_streetname = street_name
     google_streetname = display_streetname
     zone_street = google_streetname
 
-     # Calculate and construct the 'unique_id'
+    # Calculate and construct the 'unique_id'
     unique_id = f'{country_prefix}{city_name[0:3].upper()}{counter}'
 
     with open(file_name, 'a', encoding="utf-8", newline='') as file_name:
