@@ -1,3 +1,5 @@
+import sys
+
 # for match support you need 3.10 or higer, todo: add to requirements.txt
 def resolve_tariff_range(style):
     if style == '#style1':
@@ -13,12 +15,11 @@ def resolve_tariff_range(style):
     elif style == '#style6':
         return '5 +'
     else:
-        print('Style is not supported!')
+        sys.exit('Style is not supported or empty')
 
 
 def validate_city_name(city_name):
     if not city_name:
-        print('City name not found!')
+        sys.exit('City name not found')
     else:
         return city_name
-

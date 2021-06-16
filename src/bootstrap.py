@@ -1,9 +1,11 @@
 import json
+import sys
 
 def retrieve_kml():
-    with open(".vscode\\load.json", "r", encoding="utf-8") as jsonfile:
-        jsonloader = json.load(jsonfile)
-        return (jsonloader["kmlpath"])
+    kml_input = input('Enter KML path')
+    if not kml_input:
+        sys.exit('Style is not supported')
+    return kml_input
 
 def retrieve_mapbox_api_key():
     with open(".vscode\\.secrets.json", "r", encoding="utf-8") as secret_json_file:
