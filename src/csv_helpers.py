@@ -15,7 +15,7 @@ def resolve_tariff_range(style):
     elif style == '#style6':
         return '5 +'
     else:
-        return ''
+        sys.exit('Style not found')
 
 def validate_city_name(city_name):
     if not city_name:

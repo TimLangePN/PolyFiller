@@ -22,6 +22,6 @@ def write_rows(file_name, zone_code, coordinate, city_name, country_prefix, stre
 
     with open(file_name, 'a', encoding="utf-8", newline='') as file_name:
         writer = csv.writer(file_name, delimiter=';', quoting=csv.QUOTE_NONE)
-        writer.writerow([zone_code, coordinate.y, coordinate.x, city_name, display_streetname, google_streetname, zone_street, tariff_range, zone_description, unique_id])
+        writer.writerow([zone_code, coordinate.y, coordinate.x, city_name, display_streetname, google_streetname, zone_street, zone_description, tariff_range, unique_id])
 
     return counter + 1
