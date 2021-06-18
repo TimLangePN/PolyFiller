@@ -10,3 +10,8 @@ def generate_random_coordinates(number, polygon):
         if polygon.contains(point):
             coordinates.append(point)
     return coordinates
+
+def get_total_points(number, features):
+    for features in features:
+        total_polygons = len(features._features)
+    return total_polygons * number
