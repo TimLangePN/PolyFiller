@@ -5,14 +5,15 @@ from name_resolver import *
 from kml_parser import *
 from bootstrap import *
 from csv_helpers import *
-import sys
 import PySimpleGUI as sg
 
+# init function
 def init():
-    total_points = '10'
     kml_path = values[0]
+
     # Init parse of the KML.
-    features = parse_kml(kml_path)
+    features = parse_kml(kml_path, window)
+
     # Extract country_prefix (e.g. 'FR') and city_name (e.g. 'Toulouse') from KML root
     country_prefix, city_name = get_country_prefix_and_city_name(
         features[0].name)
@@ -23,11 +24,9 @@ def init():
     # Writes the header of the CSV
     write_header(file_name)
 
-    # Retrieve
+    # Retrieve nested features and puts them in a list
     nested_features = list(features[0].features())
 
-    # To be made dynamically so the client delegates the amount of random generated coordinates within a feature
-    amount_of_random_generated_coordinates = int(values[1])
     # Initiliaze a counter that we increase per iteration, this is passed to the 'unique_id' variable
     counter = 1
 
@@ -40,10 +39,13 @@ def init():
                 feature_geometry_obj = feature._features[0]._geometry.geometry
         # Need to replace link with proper wiki ref
         except:
-            sys.exit("Unable to parse polygons that are defined within the KML, please refer to: https://github.com/TimLangePN/PolyFiller/wiki")
-
+            sg.popup(
+                'Unable to parse polygons that are defined within the KML, please refer to: https://github.com/TimLangePN/PolyFiller/wiki')
+            window.close()
+            sys.exit()
         # Compute N random computed coordinates within the bounds of a feature.geometry object
-        random_coordinates_list = generate_random_coordinates(amount_of_random_generated_coordinates, feature_geometry_obj)
+        random_coordinates_list = generate_random_coordinates(
+            amount_of_random_generated_coordinates, feature_geometry_obj)
 
         # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
         tariff_range = resolve_tariff_range(feature.styleUrl)
@@ -54,7 +56,8 @@ def init():
 
         # Initialize a list that is used for storing N random generated points per feature
         coordinates_list = []
-        total_points = get_total_points(amount_of_random_generated_coordinates, features)
+        total_points = get_total_points(
+            amount_of_random_generated_coordinates, features)
         # For every y and x in the list of randomly computed coordinates append it to the list of all coordinates
         for coordinates in random_coordinates_list:
             coordinates_list.append(coordinates)
@@ -63,33 +66,51 @@ def init():
         for coordinates in coordinates_list:
             # Retrieve the street name for a computed random generated coordinate
             street_name = resolve_street_name(
-            str(coordinates.y), str(coordinates.x))
+                str(coordinates.y), str(coordinates.x))
 
             # Opens a another window with a progress bar that walks through the total calculated points
             # Returns a false value when cancelled/done
             # Will refactor later since im not sure how to give the correct total_points within the layout itself
-            progress_meter = sg.one_line_progress_meter('Progress meter', counter, total_points, 'key', 'Writing to .csv', no_titlebar=True)
-            if progress_meter == False:     
+            progress_meter = sg.one_line_progress_meter(
+                'Progress meter', counter, total_points, 'key', 'Writing to .csv', no_titlebar=True)
+            if progress_meter == False:
                 sg.Popup('Done!')
                 window.close()
                 sys.exit()
-            counter = write_rows(file_name, zone_code, coordinates, city_name, country_prefix, street_name, zone_description, tariff_range, counter)
-            
+            counter = write_rows(file_name, zone_code, coordinates, city_name,
+                                 country_prefix, street_name, zone_description, tariff_range, counter)
 
+
+# GUI wrapped and starts the init function
 sg.theme('dark black')
 layout = [[sg.Text('Add a KML:')],
           [sg.Input(), sg.FileBrowse()],
-          [sg.Text('Amount of Points per Polygon'), sg.Input(size=(2, None))],
+          [sg.Text('Amount of Points per Polygon'),
+           sg.InputText(size=(2, None))],
           [sg.OK('Start'), sg.Cancel('Cancel')]]
 
 window = sg.Window('PolyFiller', layout, icon='favicon.ico')
-event, values = window.read()
-if event == sg.WIN_CLOSED or event == 'Cancel':
-    window.close()
-elif event == 'Start' and values[0] == '':
-    sg.popup('KML can not be empty')
-elif event == 'Start' and values[1] == '':
-    sg.popup('Amount of Points can not be empty')
-else:
-    init()
-    sg.popup('Done!')
+
+# Event loop to check if values are correct/filled
+while True:
+    event, values = window.read()
+    if event == sg.WIN_CLOSED or event == 'Cancel':
+        window.close()
+        sys.exit()
+    elif event == 'Start' and values[0] == '':
+        sg.popup('KML can not be empty')
+        continue
+    elif event == 'Start' and values[1] == '':
+        sg.popup('Amount of Points can not be empty')
+        continue
+    try:
+        amount_of_random_generated_coordinates = int(values[1])
+    except ValueError:
+        sg.popup('Fill in a number')
+    try:
+        open(values[0], 'rt', encoding="utf-8")
+    except:
+        sg.popup('KML can not be found')
+    else:
+        init()
+        sg.popup('Done!')
