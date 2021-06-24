@@ -1,31 +1,33 @@
 import PySimpleGUI as sg
+import os
 import sys
-from fastkml import kml
-from main import init
+
+def value_resetter(window):
+    window['file'].update('')
+    window['points'].update('')
+
 
 def validate_content(event, values, window):
     kml_path = values['file']
+
     if event == sg.WIN_CLOSED or event == 'Cancel':
         window.close()
         sys.exit()
     if event == 'Start' and kml_path == '':
-        sg.popup('KML can not be empty')
-        return
+        return False, 'KML can not be empty'
     elif event == 'Start' and values['points'] == '':
-        sg.popup('Amount of Points can not be empty')
-        return
+        return False, 'Amount of Points can not be empty'
     try:
-        k = kml.KML()
-        with open(kml_path, 'rt', encoding="utf-8").read() as file:
-            k.from_string(file)
+        points = int(values['points'])
+        assert points < 10
     except:
-        sg.popup('Could not read KML file')
-        return
+        value_resetter(window)
+        return False, 'Insert a number smaller than 10'
     try:
-        amount_of_points = int(values['points'])
-    except:
-        window['points'].update(values['points'][:-len(values['points'])])
-        sg.popup('Only insert numbers')
-        return
+        assert os.path.exists(kml_path) == True
+        assert kml_path.endswith('.kml') == True
+    except AssertionError:
+        value_resetter(window)
+        return False, 'insert a valid .kml file'
     else:
-        init(amount_of_points, kml_path)
+        return True, ''
