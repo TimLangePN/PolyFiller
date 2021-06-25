@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>DE_Krün</name>
+<Style id="style1">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>804363d4</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Style id="style2">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>80dbba3f</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR01</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR01]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.211657381248193,47.4908688217698,0.000
+					11.212845702644747,47.490866328111615,0.000
+					11.212842012205627,47.490639404721385,0.000
+					11.21100786396312,47.4906568604016,0.000
+					11.211026316158717,47.49072668306443,0.000
+					11.211627857735236,47.490731670393934,0.000
+					11.211657381248193,47.4908688217698,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR04</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR04]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.275081466676777,47.506838893582774,0.000
+					11.27584703407736,47.50670864247267,0.000
+					11.27581935578396,47.50637708493653,0.000
+					11.274970635409295,47.50650642190055,0.000
+					11.275081466676777,47.506838893582774,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR03</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR03]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.272315283839776,47.5057164565344,0.000
+					11.27138288604792,47.50483322258844,0.000
+					11.271222913860324,47.50486385966582,0.000
+					11.272175833580187,47.50576286776009,0.000
+					11.272315283839776,47.5057164565344,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR06</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR06]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.253417637270678,47.49583199711634,0.000
+					11.253531071668755,47.49570448465835,0.000
+					11.253298451055757,47.49493706741747,0.000
+					11.253505115646465,47.493201587133754,0.000
+					11.253392557253312,47.49319161294338,0.000
+					11.253219106614685,47.49409426950064,0.000
+					11.253150833490968,47.49487597749063,0.000
+					11.253220951834246,47.49521758147523,0.000
+					11.253417637270678,47.49583199711634,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR05</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR05]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.259527443413203,47.49748859960015,0.000
+					11.260643986047922,47.498313326388775,0.000
+					11.2608515,47.4982008,0.000
+					11.25967065736528,47.49739777321138,0.000
+					11.259527443413203,47.49748859960015,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR07</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR07]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.235715353869768,47.48352199113354,0.000
+					11.235826067043359,47.48369407733054,0.000
+					11.237106649417907,47.483342422326956,0.000
+					11.237018078879034,47.48313292461014,0.000
+					11.235715353869768,47.48352199113354,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR08</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR08]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.28498271611827,47.504641982771325,0.000
+					11.286569604939757,47.50443007699654,0.000
+					11.286340797714333,47.503846708444655,0.000
+					11.285713423063978,47.50380432671607,0.000
+					11.28514878587866,47.50393147179919,0.000
+					11.285122952804821,47.504310412181084,0.000
+					11.28471700450165,47.50429296103938,0.000
+					11.284632124401895,47.50471677284054,0.000
+					11.28498271611827,47.504641982771325,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>5 +</name>
+<description><![CDATA[<p>Tarief: 5 +
+<br/>Unieke_ID: DEKR09</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[5 +]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEKR09]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					11.234272392173947,47.483878632915335,0.000
+					11.235076907902052,47.4838237651065,0.000
+					11.235707972991525,47.48342721878433,0.000
+					11.234272392173947,47.483878632915335,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>

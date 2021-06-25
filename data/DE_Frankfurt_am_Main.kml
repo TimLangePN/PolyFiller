@@ -1,0 +1,3320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<name>DE_Frankfurt am Main</name>
+<Style id="style1">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>80cc2f8b</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Style id="style2">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>80a8d668</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Style id="style3">
+	<LineStyle>
+		<color>40000000</color>
+		<width>3</width>
+	</LineStyle>
+	<PolyStyle>
+		<color>803f91cb</color>
+		<fill>1</fill>
+		<outline>1</outline>
+	</PolyStyle>
+</Style>
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA46</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA46]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.7679046,50.1252156,0.000
+					8.7689775,50.1254151,0.000
+					8.7707585,50.1224711,0.000
+					8.7711662,50.1225605,0.000
+					8.7713378,50.1221822,0.000
+					8.7705868,50.1220033,0.000
+					8.7679046,50.1252156,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA01</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA01]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.7116873,50.1112334,0.000
+					8.712052,50.1113642,0.000
+					8.7126636,50.1105936,0.000
+					8.7122022,50.1104628,0.000
+					8.7116873,50.1112334,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA107</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA107]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.70438398142255,50.11735561213264,0.000
+					8.7045204,50.117532,0.000
+					8.7045579,50.1175836,0.000
+					8.7068753,50.1168991,0.000
+					8.7071543,50.1167787,0.000
+					8.706955861659642,50.11657681014386,0.000
+					8.70438398142255,50.11735561213264,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA34</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA34]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6961044,50.117324,0.000
+					8.696390856917805,50.11723660655022,0.000
+					8.6956055,50.1160823,0.000
+					8.6953373,50.1161614,0.000
+					8.6961044,50.117324,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA73</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA73]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6709348,50.1188113,0.000
+					8.671219716206531,50.11883439619613,0.000
+					8.671364516206529,50.11734989779712,0.000
+					8.671085,50.1173426,0.000
+					8.6709348,50.1188113,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA77</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA77]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.64648,50.1034986,0.000
+					8.6472847,50.1029963,0.000
+					8.6465122,50.1026728,0.000
+					8.645303905927296,50.10324449757257,0.000
+					8.6463513,50.1035812,0.000
+					8.64648,50.1034986,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA63</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA63]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6558511,50.1084008,0.000
+					8.656012,50.108449,0.000
+					8.656468288933086,50.10809799920409,0.000
+					8.6574604,50.1084284,0.000
+					8.657632,50.1082495,0.000
+					8.6564411,50.107699,0.000
+					8.6558511,50.1084008,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA02</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA02]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6490073,50.1049067,0.000
+					8.6488786,50.1050443,0.000
+					8.6504986,50.105698,0.000
+					8.6506703,50.1055604,0.000
+					8.6490073,50.1049067,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA27</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA27]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6440653,50.1026205,0.000
+					8.644340995258162,50.102640101671994,0.000
+					8.644437495258162,50.10159459865457,0.000
+					8.6441726,50.101602,0.000
+					8.6440653,50.1026205,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA104</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA104]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6916012,50.0917898,0.000
+					8.6919445,50.091776,0.000
+					8.691805,50.0892291,0.000
+					8.6913652,50.0892291,0.000
+					8.6914617,50.0917966,0.000
+					8.6916012,50.0917898,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA41</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA41]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6816018,50.0946661,0.000
+					8.6825942,50.0955281,0.000
+					8.682800256917805,50.09543308770669,0.000
+					8.681848315021071,50.09457048390319,0.000
+					8.6816018,50.0946661,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA29</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA29]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6917804,50.1004961,0.000
+					8.6921452,50.1006097,0.000
+					8.6922685,50.1004617,0.000
+					8.6917214,50.1002794,0.000
+					8.6917804,50.1004961,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA59</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA59]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.708147247291015,50.12628718910747,0.000
+					8.707215539875794,50.125676164086094,0.000
+					8.7066807,50.125455,0.000
+					8.696339819647415,50.12044691160092,0.000
+					8.696087254350227,50.12060629959869,0.000
+					8.699192756484363,50.122068475657706,0.000
+					8.7021532,50.1234533,0.000
+					8.703170020538726,50.12394982484797,0.000
+					8.707052466219345,50.12578963619786,0.000
+					8.707894681993825,50.126348386801915,0.000
+					8.708147247291015,50.12628718910747,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA94</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA94]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6842389,50.1315389,0.000
+					8.683917,50.1314976,0.000
+					8.6835093,50.1348675,0.000
+					8.6843676,50.1373156,0.000
+					8.6845393,50.1388835,0.000
+					8.6830587,50.142019,0.000
+					8.691668064691939,50.14386954812034,0.000
+					8.691792,50.1435867,0.000
+					8.6839599,50.1418815,0.000
+					8.6853118,50.1389935,0.000
+					8.6852045,50.1374531,0.000
+					8.6843462,50.1348124,0.000
+					8.6847324,50.131814,0.000
+					8.6946888,50.1322816,0.000
+					8.6961264,50.1358715,0.000
+					8.6967272,50.1357064,0.000
+					8.6952896,50.1320478,0.000
+					8.6842389,50.1315389,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA82</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA82]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6687893,50.1421466,0.000
+					8.6692613,50.1422429,0.000
+					8.670345,50.1400907,0.000
+					8.6700016,50.140015,0.000
+					8.6687893,50.1421466,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA17</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA17]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6704844,50.1389925,0.000
+					8.6700338,50.1398864,0.000
+					8.6702806,50.1399483,0.000
+					8.6707955,50.1390613,0.000
+					8.6704844,50.1389925,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA28</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA28]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6910143,50.14405,0.000
+					8.691937,50.1442907,0.000
+					8.6919263,50.1439813,0.000
+					8.6911431,50.1437819,0.000
+					8.6910143,50.14405,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA53</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA53]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.69134683596944,50.15125439014763,0.000
+					8.691648356917804,50.150267595183074,0.000
+					8.6913056,50.1502296,0.000
+					8.6910052,50.1512281,0.000
+					8.69134683596944,50.15125439014763,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA31</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA31]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.671290364030561,50.1346884,0.000
+					8.6715515,50.1346987,0.000
+					8.6718304,50.1335708,0.000
+					8.67151418497893,50.13355660585799,0.000
+					8.671290364030561,50.1346884,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA10</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA10]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.678827705128494,50.11819395579938,0.000
+					8.677584864428212,50.11967362120468,0.000
+					8.6754773,50.1207067,0.000
+					8.67492020118549,50.12078632809724,0.000
+					8.67187526415882,50.12100600698434,0.000
+					8.670805134206374,50.12142501793321,0.000
+					8.6679671,50.12211,0.000
+					8.6668084,50.1224952,0.000
+					8.6658642,50.1228529,0.000
+					8.6664221,50.1230042,0.000
+					8.6724303,50.1211607,0.000
+					8.675622721677696,50.12104072608892,0.000
+					8.677989028219201,50.119887534704546,0.000
+					8.679015590539992,50.118223637605716,0.000
+					8.678827705128494,50.11819395579938,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA15</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA15]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6667655,50.1164621,0.000
+					8.667023,50.1163933,0.000
+					8.6666796,50.1151412,0.000
+					8.6664329,50.1151962,0.000
+					8.6667655,50.1164621,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA37</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA37]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.679621,50.1183451,0.000
+					8.6795459,50.1183175,0.000
+					8.6795888,50.1201199,0.000
+					8.6800394,50.1201543,0.000
+					8.6799214,50.1196177,0.000
+					8.6798999,50.1183451,0.000
+					8.679621,50.1183451,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA85</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA85]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.68003977025594,50.12139206460085,0.000
+					8.680116694355576,50.12144400427998,0.000
+					8.680251481715997,50.121384644642085,0.000
+					8.680365166004838,50.121322229649316,0.000
+					8.680043267575384,50.12081645251327,0.000
+					8.679938860661194,50.12041479479864,0.000
+					8.679818792709872,50.12042435811673,0.000
+					8.679857572420858,50.12062136204422,0.000
+					8.679844894438418,50.12072273268128,0.000
+					8.680134393705934,50.12133008608646,0.000
+					8.68003977025594,50.12139206460085,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA66</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA66]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6575708,50.125011,0.000
+					8.657839,50.1250591,0.000
+					8.6589441,50.1224521,0.000
+					8.6585686,50.1223834,0.000
+					8.6580214,50.1234908,0.000
+					8.6577854,50.1239586,0.000
+					8.657485,50.1249903,0.000
+					8.6575708,50.125011,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA26</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA26]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6534691,50.121778,0.000
+					8.6533833,50.1217642,0.000
+					8.6531687,50.1225071,0.000
+					8.652761,50.1233601,0.000
+					8.6522675,50.1240135,0.000
+					8.6525142,50.1242681,0.000
+					8.6533189,50.1230024,0.000
+					8.6536408,50.1223214,0.000
+					8.653748,50.1217917,0.000
+					8.6534691,50.121778,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA30</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA30]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6437488,50.1211258,0.000
+					8.6478257,50.1234371,0.000
+					8.6510229,50.1216899,0.000
+					8.6503148,50.1204516,0.000
+					8.6496496,50.120259,0.000
+					8.6461949,50.1222264,0.000
+					8.6440492,50.1209469,0.000
+					8.6437488,50.1211258,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA14</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA14]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6432445,50.1188459,0.000
+					8.6430621,50.1190729,0.000
+					8.6445856,50.1192243,0.000
+					8.6447787,50.1186808,0.000
+					8.643899,50.1182749,0.000
+					8.6432445,50.1188459,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA52</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA52]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.639857841896736,50.119182913119396,0.000
+					8.638757402370919,50.11972842200408,0.000
+					8.6390347,50.1199524,0.000
+					8.6401291,50.1194227,0.000
+					8.639857841896736,50.119182913119396,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA95</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA95]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6379688,50.1255056,0.000
+					8.63828,50.1253337,0.000
+					8.637368,50.1246665,0.000
+					8.6372393,50.1248109,0.000
+					8.6369067,50.1253681,0.000
+					8.6377221,50.1257051,0.000
+					8.6379688,50.1255056,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DERFRA76</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DERFRA76]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6217452,50.1297711,0.000
+					8.6224211,50.1295166,0.000
+					8.62211,50.1291384,0.000
+					8.6220992,50.12854,0.000
+					8.6213697,50.1285469,0.000
+					8.621477,50.1295029,0.000
+					8.6217452,50.1297711,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA12</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA12]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6126094,50.124214,0.000
+					8.6126845,50.1247677,0.000
+					8.6129152,50.125067,0.000
+					8.612824,50.1251254,0.000
+					8.612427,50.1252114,0.000
+					8.6124753,50.1252768,0.000
+					8.6127167,50.1253421,0.000
+					8.6132048,50.1250635,0.000
+					8.6131405,50.1249879,0.000
+					8.6132424,50.1248778,0.000
+					8.6131512,50.1248125,0.000
+					8.6128293,50.1247334,0.000
+					8.6127489,50.1241934,0.000
+					8.6128293,50.1242003,0.000
+					8.612824,50.1240524,0.000
+					8.6125289,50.1240661,0.000
+					8.612545,50.1241934,0.000
+					8.6126094,50.124214,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA84</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA84]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.602857,50.1226129,0.000
+					8.602385,50.12252,0.000
+					8.6016715,50.122434,0.000
+					8.6009044,50.122379,0.000
+					8.600325,50.1223549,0.000
+					8.5997027,50.1223584,0.000
+					8.599698490118547,50.122567387335245,0.000
+					8.599862509881453,50.1225666864946,0.000
+					8.601089080237092,50.122589781403285,0.000
+					8.602113680237094,50.12268138383076,0.000
+					8.602716760474186,50.12278258545,0.000
+					8.602857,50.1226129,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA88</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA88]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6455102,50.1350726,0.000
+					8.6454029,50.1372319,0.000
+					8.6460895,50.1373282,0.000
+					8.6476988,50.1370669,0.000
+					8.6502738,50.136448,0.000
+					8.6499734,50.1361454,0.000
+					8.6473126,50.1367918,0.000
+					8.6459608,50.1368744,0.000
+					8.6458749,50.1350864,0.000
+					8.6455102,50.1350726,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA70</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA70]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.7017489,50.1364178,0.000
+					8.702221,50.1364693,0.000
+					8.7023765,50.1360395,0.000
+					8.7025589,50.1359536,0.000
+					8.7024785,50.1358745,0.000
+					8.702162,50.1359708,0.000
+					8.701706,50.1359639,0.000
+					8.7015182,50.1363937,0.000
+					8.7017489,50.1364178,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA18</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA18]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.7111944,50.1253215,0.000
+					8.711367417391987,50.12552676565288,0.000
+					8.71254841857745,50.12515827031467,0.000
+					8.7124389,50.124957,0.000
+					8.7111944,50.1253215,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA24</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA24]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6917526,50.1262281,0.000
+					8.6912751,50.1261352,0.000
+					8.6908943,50.1272357,0.000
+					8.6911893,50.1272942,0.000
+					8.6915004,50.1262797,0.000
+					8.6917311,50.1263106,0.000
+					8.6917526,50.1262281,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA35</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA35]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.683071068086965,50.12629587472255,0.000
+					8.686747682993886,50.12681605253675,0.000
+					8.686847559288724,50.126555526794306,0.000
+					8.68320852964436,50.12603772815299,0.000
+					8.683071068086965,50.12629587472255,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA08</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA08]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6552262,50.1569905,0.000
+					8.6573827,50.1562412,0.000
+					8.657196540711277,50.15605966564401,0.000
+					8.656270081422553,50.156379304670686,0.000
+					8.655074520948368,50.156789772178584,0.000
+					8.6552262,50.1569905,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA22</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA22]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6226127,50.1511742,0.000
+					8.6227039,50.1511742,0.000
+					8.6226127,50.150913,0.000
+					8.622205,50.1505383,0.000
+					8.6215828,50.1501293,0.000
+					8.621491211066914,50.1501744903905,0.000
+					8.621757756718916,50.15035233190999,0.000
+					8.622065211066914,50.150546883038544,0.000
+					8.622478486363278,50.150920936556794,0.000
+					8.6226127,50.1511742,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA86</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA86]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6202234,50.1509267,0.000
+					8.6206525,50.1513048,0.000
+					8.62086629881454,50.15120357338384,0.000
+					8.620370418577448,50.15083997562639,0.000
+					8.6202234,50.1509267,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA64</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA64]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6348238,50.1587916,0.000
+					8.634974,50.1588466,0.000
+					8.6354139,50.1582795,0.000
+					8.6354031,50.158008,0.000
+					8.6352851,50.1579599,0.000
+					8.6347594,50.1587779,0.000
+					8.6348238,50.1587916,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA78</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA78]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.629429841896735,50.17741823939471,0.000
+					8.6281507,50.1787232,0.000
+					8.6284833,50.1788709,0.000
+					8.6298405,50.1775826,0.000
+					8.629429841896735,50.17741823939471,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA80</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA80]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.627743739525817,50.17776858416361,0.000
+					8.628952958103266,50.17612880725287,0.000
+					8.628508004741837,50.175963046293234,0.000
+					8.627373762845101,50.17765873953771,0.000
+					8.627743739525817,50.17776858416361,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA62</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA62]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.542218923319286,50.103540200910395,0.000
+					8.5429698,50.1036,0.000
+					8.543061,50.1033626,0.000
+					8.542266483793473,50.103296899517716,0.000
+					8.542218923319286,50.103540200910395,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA72</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA72]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.5452444,50.1045856,0.000
+					8.545486477866172,50.104711702932306,0.000
+					8.546467758103265,50.1038611025339,0.000
+					8.5461885,50.1037272,0.000
+					8.5452175,50.1045702,0.000
+					8.5452444,50.1045856,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA06</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA06]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.541472343082196,50.10473790679092,0.000
+					8.543868764030561,50.10577550307888,0.000
+					8.544146,50.1055982,0.000
+					8.5440065,50.1055534,0.000
+					8.5416998,50.1045178,0.000
+					8.541472343082196,50.10473790679092,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA71</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA71]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.543036559288723,50.10690200066372,0.000
+					8.5441324,50.1073798,0.000
+					8.544261138340357,50.10719019914402,0.000
+					8.543184317391985,50.10667469792466,0.000
+					8.543036559288723,50.10690200066372,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA99</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA99]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.5414708,50.1096235,0.000
+					8.541816356917804,50.109794397519735,0.000
+					8.54428247786617,50.10753900005,0.000
+					8.5440458,50.1073735,0.000
+					8.5414708,50.1096235,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA21</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA21]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.536269983793474,50.110310592158285,0.000
+					8.538022543082194,50.11097609320124,0.000
+					8.5382205,50.1108015,0.000
+					8.5364825,50.1101135,0.000
+					8.536269983793474,50.110310592158285,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>4 - 4,99</name>
+<description><![CDATA[<p>Tarief: 4 - 4,99
+<br/>Unieke_ID: DEFRA151</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[4 - 4,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA151]]></value></Data>
+</ExtendedData>
+<styleUrl>#style2</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.5659791,50.1189612,0.000
+					8.5660596,50.1190351,0.000
+					8.5664324,50.1187892,0.000
+					8.5663412,50.1187324,0.000
+					8.5662286,50.1188218,0.000
+					8.5659979,50.1186688,0.000
+					8.5657914,50.1188201,0.000
+					8.5659791,50.1189612,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA20</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA20]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6603902,50.1005246,0.000
+					8.6605404,50.1003663,0.000
+					8.6591135,50.0998433,0.000
+					8.658729025690207,50.100279533289466,0.000
+					8.660157404741838,50.100669512380556,0.000
+					8.6603902,50.1005246,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA65</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA65]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.656656727074557,50.12042204891359,0.000
+					8.6568109,50.1204145,0.000
+					8.6567975,50.1199261,0.000
+					8.65664003201528,50.11993689721265,0.000
+					8.656656727074557,50.12042204891359,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>4 - 4,99</name>
+<description><![CDATA[<p>Tarief: 4 - 4,99
+<br/>Unieke_ID: DEFRA168</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[4 - 4,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA168]]></value></Data>
+</ExtendedData>
+<styleUrl>#style2</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.689522570355637,50.11053139866938,0.000
+					8.6923676,50.1103894,0.000
+					8.692384890118545,50.11018090585458,0.000
+					8.689478641896736,50.11031950486597,0.000
+					8.689522570355637,50.11053139866938,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>4 - 4,99</name>
+<description><![CDATA[<p>Tarief: 4 - 4,99
+<br/>Unieke_ID: DEFRA172</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[4 - 4,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA172]]></value></Data>
+</ExtendedData>
+<styleUrl>#style2</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6906491,50.1017662,0.000
+					8.6848982,50.0994609,0.000
+					8.6792766,50.0970864,0.000
+					8.6729894,50.1028123,0.000
+					8.6685906,50.100032,0.000
+					8.6679683,50.1004174,0.000
+					8.6697708,50.1017525,0.000
+					8.674706,50.104629,0.000
+					8.6811219,50.1071475,0.000
+					8.685113,50.1077392,0.000
+					8.6878381,50.1073401,0.000
+					8.6927949,50.1070649,0.000
+					8.6919795,50.1040647,0.000
+					8.6916362,50.1031288,0.000
+					8.6911426,50.1026333,0.000
+					8.6912285,50.1019727,0.000
+					8.6906491,50.1017662,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>4 - 4,99</name>
+<description><![CDATA[<p>Tarief: 4 - 4,99
+<br/>Unieke_ID: DEFRA145</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[4 - 4,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA145]]></value></Data>
+</ExtendedData>
+<styleUrl>#style2</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6586925,50.1080207,0.000
+					8.6585638,50.108351,0.000
+					8.6693355,50.114103,0.000
+					8.6697861,50.1147773,0.000
+					8.6705049,50.115596,0.000
+					8.67070956910796,50.11690283592259,0.000
+					8.673322725017462,50.116814846852215,0.000
+					8.674259404190503,50.11693726638437,0.000
+					8.674987269535158,50.117147674223915,0.000
+					8.675428761629458,50.11751875488747,0.000
+					8.675783745137712,50.117819060329154,0.000
+					8.676290864435218,50.118209263312096,0.000
+					8.678244765257965,50.117811409258486,0.000
+					8.678778732047693,50.11789939649739,0.000
+					8.678817511758679,50.117755938959554,0.000
+					8.678074731140565,50.11764499816888,0.000
+					8.676938187303215,50.11789939649739,0.000
+					8.676326661091514,50.11772342185788,0.000
+					8.675467541340444,50.117092203107056,0.000
+					8.67430415001087,50.116663734932835,0.000
+					8.671455332780763,50.116485842808544,0.000
+					8.6712667,50.1152588,0.000
+					8.6692926,50.1129472,0.000
+					8.67367,50.1066445,0.000
+					8.6608383,50.1007815,0.000
+					8.6597654,50.1016899,0.000
+					8.658802712034602,50.107425537675816,0.000
+					8.66140561835458,50.10779338973537,0.000
+					8.661570310939666,50.10761073191108,0.000
+					8.662087292961736,50.10781498685666,0.000
+					8.661934597849733,50.107957685000386,0.000
+					8.661405345684733,50.10779400179967,0.000
+					8.658802712034612,50.107425712552676,0.000
+					8.6586925,50.1080207,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>4 - 4,99</name>
+<description><![CDATA[<p>Tarief: 4 - 4,99
+<br/>Unieke_ID: DEFRA281</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[4 - 4,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA281]]></value></Data>
+</ExtendedData>
+<styleUrl>#style2</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6699862,50.1129811,0.000
+					8.6729903,50.1163109,0.000
+					8.677966225531353,50.11744745312017,0.000
+					8.685390525531353,50.119181053120165,0.000
+					8.6909719,50.1180721,0.000
+					8.6937184,50.1159807,0.000
+					8.693306452177122,50.111278276231396,0.000
+					8.693263751400623,50.11072601970555,0.000
+					8.692367610026425,50.11038942476655,0.000
+					8.689522560217283,50.110531407129336,0.000
+					8.689478626931294,50.11031950310365,0.000
+					8.6923849219629,50.11018087573582,0.000
+					8.692367621597056,50.11038940074737,0.000
+					8.693263747868118,50.11072601226206,0.000
+					8.6930747,50.10856780333432,0.000
+					8.6881394,50.1094032,0.000
+					8.6846633,50.1092381,0.000
+					8.6801572,50.1084124,0.000
+					8.674664,50.1064307,0.000
+					8.6699862,50.1129811,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>4 - 4,99</name>
+<description><![CDATA[<p>Tarief: 4 - 4,99
+<br/>Unieke_ID: DEFRA290</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[4 - 4,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA290]]></value></Data>
+</ExtendedData>
+<styleUrl>#style2</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.6509094,50.1109393,0.000
+					8.6542568,50.111242,0.000
+					8.6551581,50.1099209,0.000
+					8.6553297,50.108187,0.000
+					8.6528406,50.10799092039566,0.000
+					8.65256219530373,50.10819804501106,0.000
+					8.652194527981521,50.108388434719096,0.000
+					8.651912367798559,50.10851142576019,0.000
+					8.651748169290668,50.10857162663948,0.000
+					8.651584647883999,50.10861697805515,0.000
+					8.651365427770724,50.10867329777179,0.000
+					8.651112582171104,50.10868367472708,0.000
+					8.645236030688894,50.10845792258484,0.000
+					8.64495640655296,50.108670779404996,0.000
+					8.651284860060152,50.108956442514575,0.000
+					8.651383616718599,50.108975382394824,0.000
+					8.651441044456105,50.10899866874828,0.000
+					8.651466320302744,50.10903307896224,0.000
+					8.651461853346964,50.109061783119024,0.000
+					8.651418505508842,50.10912427811535,0.000
+					8.650609,50.1098934,0.000
+					8.6509094,50.1109393,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA07</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA07]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.611023076560938,50.12530544235126,0.000
+					8.611183052056193,50.12521097725048,0.000
+					8.609536988407665,50.12451462875516,0.000
+					8.609435951252767,50.12462259042576,0.000
+					8.611023076560938,50.12530544235126,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA33</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA33]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.61049263149773,50.12599638141937,0.000
+					8.611250410159457,50.125497070982966,0.000
+					8.611452484469249,50.12532163634981,0.000
+					8.61177664534121,50.124725153787274,0.000
+					8.611582990794323,50.12461989138696,0.000
+					8.611519842572514,50.124757542171565,0.000
+					8.611330397907084,50.12490868767516,0.000
+					8.611208311344916,50.125202880233175,0.000
+					8.611103064308566,50.12538101429764,0.000
+					8.610328446121022,50.12590191768227,0.000
+					8.61049263149773,50.12599638141937,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA325</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA325]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.662845315881938,50.15160094865137,0.000
+					8.663753684059913,50.150601191017834,0.000
+					8.664865099242377,50.149532933735884,0.000
+					8.666094067953756,50.1484715006228,0.000
+					8.66593376768705,50.148409868299005,0.000
+					8.664544498708972,50.1496835868492,0.000
+					8.663614757162104,50.15056010464056,0.000
+					8.66270638898413,50.151553015543264,0.000
+					8.662845315881938,50.15160094865137,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA319</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA319]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.70377531731304,50.13541737127632,0.000
+					8.704961539286632,50.134869376088545,0.000
+					8.706393555002498,50.133985720628445,0.000
+					8.70628668815803,50.13390351929087,0.000
+					8.704854672442163,50.134752926302596,0.000
+					8.703625703730786,50.135321472571526,0.000
+					8.70377531731304,50.13541737127632,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA322</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA322]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.706511108531412,50.13360896333831,0.000
+					8.706607288691435,50.13367061473424,0.000
+					8.707066816122644,50.13336920715458,0.000
+					8.707227116389346,50.13313629999721,0.000
+					8.707451536762727,50.13282803878107,0.000
+					8.708082051145087,50.13190324321742,0.000
+					8.707932437562834,50.131855290367476,0.000
+					8.706970635962623,50.13327330434472,0.000
+					8.706511108531412,50.13360896333831,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA368</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA368]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.70539969334895,50.133362356960255,0.000
+					8.70555999361565,50.13335550676495,0.000
+					8.70559205366899,50.13293764299655,0.000
+					8.705709607197905,50.13293764299655,0.000
+					8.705666860460118,50.132026550325236,0.000
+					8.705549306931204,50.132012849551174,0.000
+					8.70555999361565,50.1316223758413,0.000
+					8.705389006664502,50.13160867495151,0.000
+					8.70539969334895,50.133362356960255,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA365</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA365]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.705741667251244,50.13183473913136,0.000
+					8.705880594149054,50.13181418788641,0.000
+					8.705784413989033,50.13155387135314,0.000
+					8.707964497616171,50.13126615143198,0.000
+					8.708417062301958,50.13117315074933,0.000
+					8.708387431150967,50.13110609878603,0.000
+					8.708198956750753,50.13116339388345,0.000
+					8.708120264039794,50.131113676105365,0.000
+					8.707251151730267,50.131205804909825,0.000
+					8.706942769697497,50.131238494391546,0.000
+					8.705812391910255,50.13135831786114,0.000
+					8.70571189952546,50.130982682919274,0.000
+					8.706122889915914,50.130602928158595,0.000
+					8.706878128030953,50.1308451359492,0.000
+					8.706942773292344,50.13123840445118,0.000
+					8.70725069363116,50.131205493181135,0.000
+					8.707065260708838,50.13073857298926,0.000
+					8.707751966503048,50.13023362683517,0.000
+					8.708586906936421,50.1308584042574,0.000
+					8.708930102408315,50.13074659273396,0.000
+					8.707587380666899,50.12958607656645,0.000
+					8.707247095920398,50.12963611137319,0.000
+					8.707608332785082,50.130085212564644,0.000
+					8.707307761165263,50.1302801549005,0.000
+					8.706818943890111,50.1306356551423,0.000
+					8.706297750656477,50.13043871934062,0.000
+					8.706929902601706,50.129629346302835,0.000
+					8.706727326067913,50.129487313972625,0.000
+					8.705629490888052,50.130668489219765,0.000
+					8.705370213592166,50.130042435648704,0.000
+					8.705272687151222,50.12984292775038,0.000
+					8.70494089331221,50.12937319203814,0.000
+					8.704525598830763,50.12867461562198,0.000
+					8.704336553303035,50.128128027618594,0.000
+					8.70411850492824,50.12811886454268,0.000
+					8.704257439977647,50.12861161675195,0.000
+					8.70449710856066,50.12922622098804,0.000
+					8.70513643614128,50.13004736159211,0.000
+					8.705372816681583,50.13139091334568,0.000
+					8.705634800406779,50.131567572258625,0.000
+					8.705741667251244,50.13183473913136,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA326</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA326]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.709365946534236,50.13121685234042,0.000
+					8.709517160413817,50.13134535023786,0.000
+					8.71041795072157,50.13211163947818,0.000
+					8.711048515271811,50.13285869229709,0.000
+					8.711614479307523,50.134116652488515,0.000
+					8.711758399130355,50.13466798668181,0.000
+					8.711937089316438,50.13534350111702,0.000
+					8.711976221661487,50.1356455570175,0.000
+					8.712175062251939,50.1356440023052,0.000
+					8.712155746725442,50.135488587618084,0.000
+					8.712141944335093,50.13543121444696,0.000
+					8.712097502988144,50.135246482136836,0.000
+					8.712053804212744,50.13506483582788,0.000
+					8.71201171465137,50.13488987801989,0.000
+					8.711956812460503,50.1346616597366,0.000
+					8.711818989644621,50.13412612352054,0.000
+					8.711751145783884,50.133940873224894,0.000
+					8.711653315426174,50.133673844904536,0.000
+					8.71152945313246,50.133416969215794,0.000
+					8.711438639275254,50.133216651505904,0.000
+					8.711342483426444,50.13304715122144,0.000
+					8.711299075051663,50.13295770916718,0.000
+					8.711226710279144,50.13282719824733,0.000
+					8.711123461770821,50.132692739607144,0.000
+					8.71101994946413,50.132561605467444,0.000
+					8.710915124098397,50.13242564503384,0.000
+					8.710818968249587,50.13231949166836,0.000
+					8.710659654061736,50.1321397218816,0.000
+					8.710522487715757,50.13200787878174,0.000
+					8.710201968219723,50.13173564388487,0.000
+					8.710009656522104,50.131574699255104,0.000
+					8.709654414080667,50.131321295975006,0.000
+					8.709408682467041,50.13118432067031,0.000
+					8.709365946534236,50.13121685234042,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA338</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA338]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.69185370426292,50.14354615839912,0.000
+					8.69257000019031,50.14367526606558,0.000
+					8.693722788948453,50.14093524052674,0.000
+					8.693381045878645,50.14085579643951,0.000
+					8.694021908419794,50.13932610101644,0.000
+					8.693700404700722,50.13927106454087,0.000
+					8.69185370426292,50.14354615839912,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA349</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA349]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.70634190860678,50.13388720214436,0.000
+					8.706800785685264,50.13421003574519,0.000
+					8.70741635249817,50.13447547507373,0.000
+					8.708434835767173,50.13468352109126,0.000
+					8.709016826207872,50.13470504303799,0.000
+					8.709665969394825,50.13458308519344,0.000
+					8.71024795983583,50.13446112703997,0.000
+					8.711568630449507,50.13421720984866,0.000
+					8.711523861954964,50.13403068400545,0.000
+					8.710326304703194,50.134260254110195,0.000
+					8.710180807092637,50.133844157499674,0.000
+					8.709867427624403,50.13327739939994,0.000
+					8.709509279660708,50.13264606601801,0.000
+					8.70943093479365,50.13197885236815,0.000
+					8.709464511164635,50.13157529125191,0.000
+					8.709279789781139,50.131547811087906,0.000
+					8.708699243477673,50.13155598441877,0.000
+					8.70870349045857,50.13161473666065,0.000
+					8.709240668690388,50.13159860817337,0.000
+					8.709207092319712,50.13207570653579,0.000
+					8.709186107085317,50.13242455928866,0.000
+					8.70873568967713,50.132419122502434,0.000
+					8.708769263316494,50.13259584420841,0.000
+					8.709165121851845,50.132594949169544,0.000
+					8.709319013554996,50.132961733750186,0.000
+					8.709610008775497,50.13347827645645,0.000
+					8.709889811872134,50.13402350993039,0.000
+					8.709968156739192,50.13430329837992,0.000
+					8.709162323820879,50.1344683010576,0.000
+					8.708289338159677,50.134410908882245,0.000
+					8.708507584574749,50.13396611722569,0.000
+					8.708653082184387,50.133481863514056,0.000
+					8.708703446740252,50.132925862521965,0.000
+					8.708769200470106,50.13259584596425,0.000
+					8.708735624098509,50.1324191785522,0.000
+					8.708703446741476,50.131614750672846,0.000
+					8.708698075177006,50.1315560156425,0.000
+					8.708518109278847,50.13155730571949,0.000
+					8.708412451524955,50.13165600371277,0.000
+					8.708434835770541,50.13183177714278,0.000
+					8.708423643645753,50.13260660740911,0.000
+					8.708412451523117,50.1331123926153,0.000
+					8.708311722409244,50.13354284388611,0.000
+					8.708199801170592,50.133894376257395,0.000
+					8.70796476656819,50.13433916858694,0.000
+					8.707371584002097,50.134174165446844,0.000
+					8.706946283293675,50.134001987705055,0.000
+					8.706554558955935,50.1337580681208,0.000
+					8.70634190860678,50.13388720214436,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA342</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA342]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.720749312449252,50.10028326497823,0.000
+					8.72123616985072,50.10039813110335,0.000
+					8.721717431190102,50.10054889247445,0.000
+					8.722464505478564,50.10065478410826,0.000
+					8.722514870037338,50.10052376561322,0.000
+					8.72179017999722,50.10041428413022,0.000
+					8.721420839899553,50.1003101867469,0.000
+					8.720925588404953,50.10017557773801,0.000
+					8.720791282914895,50.100159424623534,0.000
+					8.720749312449252,50.10028326497823,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA373</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA373]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.65526256448053,50.15974512349201,0.000
+					8.655363601635427,50.15976400289218,0.000
+					8.655409910331421,50.15960217922019,0.000
+					8.655620404404123,50.159542843736546,0.000
+					8.654715279891509,50.15855840337471,0.000
+					8.654635292143881,50.158582677490415,0.000
+					8.654892094912578,50.158865874596216,0.000
+					8.654736329298778,50.15890902829362,0.000
+					8.655258354599075,50.15943226377506,0.000
+					8.655258354599075,50.15952666131913,0.000
+					8.655300453413616,50.15958869388946,0.000
+					8.65526256448053,50.15974512349201,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA375</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA375]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.706327861178064,50.12882986949139,0.000
+					8.706580454065142,50.12873541134676,0.000
+					8.704563920849974,50.1278555922442,0.000
+					8.70441236511773,50.12800402911657,0.000
+					8.706327861178064,50.12882986949139,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA378</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA378]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.707485578577167,50.129178013614585,0.000
+					8.707620294783608,50.129145628221586,0.000
+					8.707254035097346,50.12864365182774,0.000
+					8.707124929589563,50.12867678938981,0.000
+					8.707485578577167,50.129178013614585,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA379</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA379]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.707022491617526,50.12831169680415,0.000
+					8.707136158416711,50.128317094465224,0.000
+					8.706963553277207,50.12762349003011,0.000
+					8.70674042956029,50.12770715491144,0.000
+					8.706630972642555,50.12761539342093,0.000
+					8.706466787265956,50.12753172837919,0.000
+					8.70641626868854,50.1275479216245,0.000
+					8.706681491219971,50.127720649233446,0.000
+					8.706681491219971,50.12795275097634,0.000
+					8.706934084107049,50.12792576245942,0.000
+					8.707022491617526,50.12831169680415,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA380</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA380]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.70486703231447,50.127704456046594,0.000
+					8.706252083311941,50.12756681373709,0.000
+					8.70621840426033,50.127466955343216,0.000
+					8.704854402670113,50.12761269455091,0.000
+					8.70486703231447,50.127704456046594,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA381</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA381]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.709177950920584,50.13074328148124,0.000
+					8.709413704281854,50.13074328148124,0.000
+					8.7095652600141,50.12870842327119,0.000
+					8.710819804686585,50.128816375482145,0.000
+					8.711047138284954,50.12876239940711,0.000
+					8.710979780181733,50.128681435180404,0.000
+					8.710685088480144,50.12868683279979,0.000
+					8.709514741436687,50.12856808503291,0.000
+					8.709742075035054,50.127823205956325,0.000
+					8.709447383333465,50.12768286512225,0.000
+					8.70910217305446,50.12764508098124,0.000
+					8.709110592817362,50.12756411486432,0.000
+					8.70713194853526,50.127380591158854,0.000
+					8.707081429957844,50.127504739624854,0.000
+					8.7095652600141,50.12775843331482,0.000
+					8.709329506652828,50.12856268740015,0.000
+					8.70717404734977,50.12833058861526,0.000
+					8.70713194853526,50.1283845651773,0.000
+					8.707426640236848,50.12842234873451,0.000
+					8.707426640236848,50.12848172283557,0.000
+					8.709304247364122,50.12873001373286,0.000
+					8.709228469498,50.129863499291645,0.000
+					8.707864467907783,50.12933994025082,0.000
+					8.707729751701342,50.129447891037266,0.000
+					8.709194790446388,50.13002002614011,0.000
+					8.709177950920584,50.13074328148124,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA384</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA384]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.711278681764774,50.13098076592578,0.000
+					8.711817546590538,50.131007752719896,0.000
+					8.711817546590538,50.13108331566249,0.000
+					8.711981731967137,50.131131891776846,0.000
+					8.712103818529226,50.13093488834084,0.000
+					8.712314312601789,50.130945683070664,0.000
+					8.71228484343163,50.130843133039015,0.000
+					8.71073981693901,50.13032498215033,0.000
+					8.710655619309984,50.13040864230902,0.000
+					8.711089237099467,50.1305381803307,0.000
+					8.711598632755072,50.130727089317105,0.000
+					8.711973312204236,50.13082963959743,0.000
+					8.711927003508272,50.13094028570605,0.000
+					8.71185964540505,50.13095647779805,0.000
+					8.711270262001872,50.13092139492513,0.000
+					8.711278681764774,50.13098076592578,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA387</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA387]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.710954520893026,50.1297285619424,0.000
+					8.711055558047857,50.129771741935556,0.000
+					8.711308150934933,50.129267073332315,0.000
+					8.711400768326861,50.12888924308687,0.000
+					8.711257632357519,50.128878447893165,0.000
+					8.711190274254298,50.12925897700118,0.000
+					8.710954520893026,50.1297285619424,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA386</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA386]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.71244481892678,50.13083233828605,0.000
+					8.712571115370318,50.13088091465517,0.000
+					8.712945794819483,50.13034387316668,0.000
+					8.71346361023799,50.12989318545741,0.000
+					8.713442560830735,50.12980682565131,0.000
+					8.713598326444433,50.12972316444052,0.000
+					8.713282585335586,50.12955314281959,0.000
+					8.712667942643698,50.129024182802674,0.000
+					8.71231010272034,50.12881907428429,0.000
+					8.711581793229266,50.12860316963105,0.000
+					8.71155653394056,50.12864635063963,0.000
+					8.71175439836877,50.12871112207942,0.000
+					8.711745978605867,50.128767797017346,0.000
+					8.712268003905827,50.128870351496296,0.000
+					8.71234378177195,50.12890273707556,0.000
+					8.712705831576761,50.129161820920814,0.000
+					8.71263847347354,50.129202302644934,0.000
+					8.712956158520253,50.129526480840084,0.000
+					8.713383622490415,50.12981222314375,0.000
+					8.712819498375945,50.1302952962524,0.000
+					8.71244481892678,50.13083233828605,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA403</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA403]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.711085027218015,50.12859102496537,0.000
+					8.711173434728492,50.12854784390688,0.000
+					8.710529322866444,50.12823612948516,0.000
+					8.709958883929795,50.12786233938474,0.000
+					8.709872581360043,50.12792846131178,0.000
+					8.711085027218015,50.12859102496537,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA60</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA60]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.711230268128084,50.12856133799184,0.000
+					8.711270262001872,50.12849386752898,0.000
+					8.710569316740232,50.128129525385866,0.000
+					8.710076760610432,50.12779486793643,0.000
+					8.710003087685035,50.127840748531625,0.000
+					8.71054616239225,50.12819969519945,0.000
+					8.71075455152409,50.12833193803003,0.000
+					8.711230268128084,50.12856133799184,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA404</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA404]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.709434683978166,50.12741678394286,0.000
+					8.709558945191924,50.127353602319275,0.000
+					8.708300377431831,50.12644018319686,0.000
+					8.708232761525496,50.12647715669509,0.000
+					8.708847270791887,50.1269635467797,0.000
+					8.709434683978166,50.12741678394286,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA54</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA54]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.709538842304466,50.12749869765573,0.000
+					8.708207156972732,50.12649930890664,0.000
+					8.708138546714833,50.126542338353005,0.000
+					8.709455316773115,50.1275343954167,0.000
+					8.709538842304466,50.12749869765573,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA397</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA397]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.710148328595105,50.12780971166323,0.000
+					8.71163862662886,50.12790147278118,0.000
+					8.71423191360285,50.127987836025596,0.000
+					8.714105617159312,50.129061965854916,0.000
+					8.714307691468974,50.129040375543,0.000
+					8.715301223491476,50.128381866350644,0.000
+					8.715333177454255,50.12806850404923,0.000
+					8.715128838207908,50.12804523702128,0.000
+					8.71511598870762,50.128268515493616,0.000
+					8.714484506489928,50.128802881469085,0.000
+					8.714341370520584,50.12879748386281,0.000
+					8.714443450319207,50.12802529669123,0.000
+					8.715096024606305,50.12802483852171,0.000
+					8.715137507710624,50.1279398778807,0.000
+					8.714450410780152,50.12789334368842,0.000
+					8.71370551039702,50.12785123778701,0.000
+					8.713457295415813,50.12785829110053,0.000
+					8.711739663783689,50.12779351850651,0.000
+					8.711748083546594,50.12701624054051,0.000
+					8.713457295415813,50.12711879877284,0.000
+					8.713490974467424,50.12698385368466,0.000
+					8.711739663783689,50.126897488628536,0.000
+					8.711764698279895,50.125913228058444,0.000
+					8.713002628219076,50.125569606272464,0.000
+					8.712977368930368,50.1254724427024,0.000
+					8.711649353498501,50.125862867003555,0.000
+					8.711644381740683,50.12600821268864,0.000
+					8.711567816670273,50.12600757520854,0.000
+					8.711541963529617,50.1262523669469,0.000
+					8.710137939121621,50.12621858066166,0.000
+					8.710187637707259,50.125768097121025,0.000
+					8.709951001027637,50.12582780547835,0.000
+					8.709921170480724,50.126421138646755,0.000
+					8.709686503511683,50.12732475037251,0.000
+					8.709862752326355,50.127415987116166,0.000
+					8.709967656416328,50.127007053908805,0.000
+					8.7101314890693,50.12630912253651,0.000
+					8.711529169711126,50.12636849925925,0.000
+					8.711529169711126,50.12687049951655,0.000
+					8.71001886552186,50.12679477699253,0.000
+					8.709990526502295,50.126922270748864,0.000
+					8.711512330185322,50.12701084273274,0.000
+					8.711436552319197,50.127766529899795,0.000
+					8.710148328595105,50.12769096172002,0.000
+					8.710148328595105,50.12780971166323,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA398</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA398]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.713474134941618,50.127831302530346,0.000
+					8.713684629014184,50.12784344738823,0.000
+					8.713861444035137,50.12630912253651,0.000
+					8.71482829544777,50.125612335905004,0.000
+					8.715356793303897,50.12588709131506,0.000
+					8.714358210046388,50.12661680111987,0.000
+					8.71429927170607,50.12785829110053,0.000
+					8.714476086727025,50.12786908652435,0.000
+					8.714576594480684,50.12668790868396,0.000
+					8.71479919196242,50.12650606846854,0.000
+					8.714902126051376,50.1264216167527,0.000
+					8.715536976852748,50.12595286065319,0.000
+					8.715915618882718,50.12614718315024,0.000
+					8.716226850922169,50.126064310905186,0.000
+					8.716835394079174,50.126349900806375,0.000
+					8.716771755579096,50.126411098420625,0.000
+					8.717633497815488,50.126800327754125,0.000
+					8.717749700342031,50.12680983721017,0.000
+					8.71846265041323,50.126802187576395,0.000
+					8.718468616522614,50.126663219016656,0.000
+					8.717823282357747,50.12667596844262,0.000
+					8.716288500719118,50.12601841236927,0.000
+					8.713943322556043,50.12472080429849,0.000
+					8.713886703323844,50.1247491077032,0.000
+					8.714108384915624,50.12489165325761,0.000
+					8.714000000595176,50.12494488405871,0.000
+					8.713869863798038,50.12501901010074,0.000
+					8.714706984556994,50.12552786901766,0.000
+					8.714046678818994,50.12593126893867,0.000
+					8.712766874857804,50.12505679631495,0.000
+					8.713204519344186,50.124924484237745,0.000
+					8.713137344425517,50.12480848636125,0.000
+					8.712538303796483,50.12498887114308,0.000
+					8.712629784140345,50.125142506874255,0.000
+					8.713954260423245,50.125985900879684,0.000
+					8.713600431385158,50.12622815415952,0.000
+					8.713474134941618,50.127831302530346,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA391</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA391]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.714189814788337,50.12970427317914,0.000
+					8.716968336546184,50.130125276664124,0.000
+					8.718660708889601,50.13003351980997,0.000
+					8.718728066992822,50.129790633170316,0.000
+					8.718837523910555,50.12975824819189,0.000
+					8.718904882013776,50.129169917268385,0.000
+					8.71871964722992,50.12915372457189,0.000
+					8.718751012366717,50.125218687064276,0.000
+					8.718442763381956,50.12522506197008,0.000
+					8.71849231363155,50.126649188224114,0.000
+					8.718500733394452,50.12678953208925,0.000
+					8.718517572920259,50.127836700245595,0.000
+					8.718509153157354,50.12800402911657,0.000
+					8.71852599268316,50.12989858294012,0.000
+					8.717170410855847,50.12999573752476,0.000
+					8.716842040102646,50.12805800604692,0.000
+					8.718458634579939,50.12799863142018,0.000
+					8.718475474105745,50.12786908652435,0.000
+					8.716766262236524,50.1279554498272,0.000
+					8.716454731009128,50.126546628985494,0.000
+					8.716218977647857,50.12651963967565,0.000
+					8.71648841006074,50.127890677364675,0.000
+					8.715385421120502,50.127939256719785,0.000
+					8.715441064598922,50.126693817633246,0.000
+					8.71489516559043,50.126431816345224,0.000
+					8.714795730434057,50.12651660037398,0.000
+					8.715233865388257,50.12675714507997,0.000
+					8.715144747832927,50.12793336389331,0.000
+					8.715131541601242,50.1280367708482,0.000
+					8.715326931683494,50.12805589443704,0.000
+					8.716437891483324,50.12807959680202,0.000
+					8.716783101762328,50.12993636530203,0.000
+					8.714223493839947,50.129553142819596,0.000
+					8.714189814788337,50.12970427317914,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA402</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA402]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.714000370123031,50.124657340541354,0.000
+					8.71599585393094,50.12410133573955,0.000
+					8.715941125472073,50.12397717844538,0.000
+					8.713945641664164,50.12454667990629,0.000
+					8.714000370123031,50.124657340541354,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA406</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA406]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.671773152522137,50.1210042610977,0.000
+					8.672015497473197,50.12097458101678,0.000
+					8.67226567505946,50.12035652849499,0.000
+					8.673508379440364,50.12037744790476,0.000
+					8.673502327735775,50.12025564282924,0.000
+					8.672299354111072,50.120232361487574,0.000
+					8.672754021307808,50.119066255616566,0.000
+					8.673941207877071,50.11908785042787,0.000
+					8.673503380206137,50.1202553054164,0.000
+					8.67351179996904,50.12037812272427,0.000
+					8.67339602822913,50.1208019074999,0.000
+					8.67356442348718,50.120807306010654,0.000
+					8.674219060052856,50.11910404652995,0.000
+					8.675145233972138,50.11914723610871,0.000
+					8.674703196419753,50.12073982461661,0.000
+					8.674909480610868,50.12073037721514,0.000
+					8.67537256757051,50.119158033497314,0.000
+					8.677843767982413,50.119209321059515,0.000
+					8.677966223287012,50.11907414446432,0.000
+					8.67425370625767,50.11894971245158,0.000
+					8.674269578630271,50.118650553600524,0.000
+					8.67521259207536,50.118002699106725,0.000
+					8.675035777054404,50.117873127155946,0.000
+					8.674109603135122,50.118558774746916,0.000
+					8.673974886928681,50.11892049038551,0.000
+					8.672678243441686,50.118882699327244,0.000
+					8.672703502730394,50.11774895370739,0.000
+					8.672972935143274,50.11712268271082,0.000
+					8.672644564390076,50.117079491305645,0.000
+					8.672509848183633,50.11772735829217,0.000
+					8.672406244669576,50.119098587880714,0.000
+					8.672215156482045,50.119579129753355,0.000
+					8.671052925111393,50.11958046935518,0.000
+					8.671058371065348,50.11973585764768,0.000
+					8.672226528189015,50.11971839830464,0.000
+					8.672063600749798,50.120232361487574,0.000
+					8.67092693275795,50.120178375731705,0.000
+					8.670969031572465,50.120302542879166,0.000
+					8.671992352168886,50.12034867616858,0.000
+					8.671773152522137,50.1210042610977,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA410</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA410]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.677902914072265,50.11901609138117,0.000
+					8.678068996640064,50.11890075130972,0.000
+					8.677761675294121,50.118593023126486,0.000
+					8.677509082407042,50.11848774724128,0.000
+					8.67671341481275,50.11827989417283,0.000
+					8.67662079742082,50.1183662747784,0.000
+					8.677639588732033,50.11870909627003,0.000
+					8.677902914072265,50.11901609138117,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA411</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA411]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.670634345997097,50.11947031316711,0.000
+					8.671013235327713,50.11949190779615,0.000
+					8.671072173668033,50.1189304442754,0.000
+					8.670726963389026,50.11892504555573,0.000
+					8.670634345997097,50.11947031316711,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA412</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA412]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.670617506471292,50.12100890610826,0.000
+					8.670819580780954,50.12102510156042,0.000
+					8.670954296987397,50.120355684970235,0.000
+					8.670794321492247,50.12034488785175,0.000
+					8.670617506471292,50.12100890610826,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA413</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA413]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.67070170410032,50.12628293537066,0.000
+					8.671232149163181,50.12643407605725,0.000
+					8.670179678800361,50.12448540418508,0.000
+					8.669792369706842,50.12449080227769,0.000
+					8.67070170410032,50.12628293537066,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA414</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA414]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.672267780000197,50.12781051391555,0.000
+					8.67201698604684,50.12759786246399,0.000
+					8.671694816140189,50.12737220146926,0.000
+					8.671568939679284,50.127448865449566,0.000
+					8.67214148355666,50.12786449106416,0.000
+					8.672267780000197,50.12781051391555,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA420</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA420]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.671707865767178,50.1269333767184,0.000
+					8.67191835983974,50.12697655923356,0.000
+					8.672861373284828,50.125772832029746,0.000
+					8.674191695823433,50.1260265349,0.000
+					8.674284313215363,50.125886188797544,0.000
+					8.67296241043966,50.12565947499346,0.000
+					8.673593892657351,50.12489835651133,0.000
+					8.674806338515321,50.12504950157015,0.000
+					8.675042091876595,50.12448810323146,0.000
+					8.67492421519596,50.124444918471134,0.000
+					8.674722140886296,50.1249145506476,0.000
+					8.673678090286376,50.124774201284524,0.000
+					8.67459584444276,50.12354882590231,0.000
+					8.675101030216911,50.12332210102694,0.000
+					8.67548833931043,50.1232195346591,0.000
+					8.675446240495916,50.12300900300499,0.000
+					8.67430957250407,50.123403074319995,0.000
+					8.674174856297629,50.123359888580744,0.000
+					8.674208535349239,50.12226943575229,0.000
+					8.675538857887846,50.12233421582225,0.000
+					8.675538857887846,50.1227822755727,0.000
+					8.675648314805578,50.12279847042492,0.000
+					8.675631475279774,50.12222085064228,0.000
+					8.674225374875043,50.12215067206299,0.000
+					8.674461128236317,50.121097981025926,0.000
+					8.67424221440085,50.121103379501996,0.000
+					8.674006461039577,50.122134476991626,0.000
+					8.673476015976716,50.1221128835546,0.000
+					8.673678090286376,50.12117895808276,0.000
+					8.673543374079935,50.121146567277044,0.000
+					8.67329078119286,50.12210748519383,0.000
+					8.673122385934807,50.12208589174464,0.000
+					8.673433917162203,50.123154755787226,0.000
+					8.671792063396204,50.12285785150279,0.000
+					8.671674186715569,50.1221614687742,0.000
+					8.671834162210716,50.12163242706151,0.000
+					8.671657347189763,50.121578442884534,0.000
+					8.671143741652704,50.12277687728742,0.000
+					8.670167771799665,50.12268226381178,0.000
+					8.670184178600467,50.122838138274815,0.000
+					8.671270038096242,50.12293882558119,0.000
+					8.671505791457516,50.12226943575229,0.000
+					8.671572886443144,50.12366876697582,0.000
+					8.671775602101935,50.12369325912863,0.000
+					8.671766804107495,50.12301440126409,0.000
+					8.673467596213815,50.12328971167136,0.000
+					8.673753868152502,50.12393209646379,0.000
+					8.67177560183259,50.12369373332225,0.000
+					8.671572656639029,50.12366928020074,0.000
+					8.670783772593401,50.123570645825204,0.000
+					8.670097670014423,50.12350179441788,0.000
+					8.670118551397263,50.12367392275052,0.000
+					8.671581569323639,50.12379174421995,0.000
+					8.671590909998113,50.12447945784666,0.000
+					8.671857645455685,50.124519690498296,0.000
+					8.671834162210716,50.123829531403004,0.000
+					8.673694929812184,50.12404545759106,0.000
+					8.673147645223517,50.124714822583954,0.000
+					8.671857594971044,50.12451993663316,0.000
+					8.671591057584436,50.12447967113227,0.000
+					8.670217567733422,50.1242721790402,0.000
+					8.670209147970521,50.12442872417597,0.000
+					8.673088706883199,50.1248443760175,0.000
+					8.67246564442841,50.125616291289965,0.000
+					8.67266771873807,50.12569726070205,0.000
+					8.671707865767178,50.1269333767184,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA422</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA422]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.672864173579143,50.12777188843664,0.000
+					8.672977529657409,50.12781396055484,0.000
+					8.673627571708963,50.126825420260054,0.000
+					8.673549183669984,50.126785483983525,0.000
+					8.673094516473245,50.12723889983016,0.000
+					8.672864173579143,50.12777188843664,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA423</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA423]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.675935197314363,50.12104419651951,0.000
+					8.67872733650505,50.12230205868574,0.000
+					8.681074006195226,50.12309003862232,0.000
+					8.681153554320314,50.122945321596646,0.000
+					8.678956037364685,50.12225679407213,0.000
+					8.678811576726579,50.122200551933226,0.000
+					8.678664754503508,50.12214542540839,0.000
+					8.67603860987698,50.120934538444054,0.000
+					8.675935197314363,50.12104419651951,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA424</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA424]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.678472782504754,50.12088178134439,0.000
+					8.679922795672427,50.12146051244387,0.000
+					8.679119856784792,50.12168492617591,0.000
+					8.678662890094328,50.12214391127094,0.000
+					8.678793429810542,50.122193220328235,0.000
+					8.679254342833769,50.121814824310306,0.000
+					8.680433892376133,50.12215957063765,0.000
+					8.680436875430823,50.122147457540166,0.000
+					8.680392129610459,50.12204290225557,0.000
+					8.67936595879679,50.12175569281382,0.000
+					8.680111722469515,50.12152235379666,0.000
+					8.6800301856413,50.12139484565641,0.000
+					8.678524488786064,50.120789974289174,0.000
+					8.678464081928574,50.12087429015033,0.000
+					8.678472782504754,50.12088178134439,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+<Placemark>
+<name>2 - 2,99</name>
+<description><![CDATA[<p>Tarief: 2 - 2,99
+<br/>Unieke_ID: DEFRA28</p>]]></description>
+<ExtendedData>
+	<Data name="Tarief"><displayName>Tarief</displayName><value><![CDATA[2 - 2,99]]></value></Data>
+	<Data name="Unieke_ID"><displayName>Unieke_ID</displayName><value><![CDATA[DEFRA28]]></value></Data>
+</ExtendedData>
+<styleUrl>#style1</styleUrl>
+<MultiGeometry>
+	<Polygon>
+		<outerBoundaryIs>
+			<LinearRing>
+				<tessellate>1</tessellate>
+				<coordinates>
+					8.681317536472156,50.12319890128779,0.000
+					8.68626331685572,50.123094826209524,0.000
+					8.686228514550992,50.12300860192875,0.000
+					8.684012602091435,50.12303729032277,0.000
+					8.683980782841399,50.12231242496311,0.000
+					8.686116650000084,50.12240167898607,0.000
+					8.686139520086051,50.122239109034055,0.000
+					8.683960895810129,50.122162605336165,0.000
+					8.683859471950639,50.12134910845307,0.000
+					8.684680806342199,50.12118972264788,0.000
+					8.68492740552998,50.12118334720463,0.000
+					8.686079858992231,50.12139628654962,0.000
+					8.686123610461033,50.12126495281406,0.000
+					8.684918456365908,50.121045637423286,0.000
+					8.685037778553545,50.12068095960728,0.000
+					8.686097757320379,50.12056109985835,0.000
+					8.68605562167287,50.12042960444286,0.000
+					8.684970784116945,50.1205622155755,0.000
+					8.683402074547551,50.12048149361074,0.000
+					8.683388913492175,50.120603997838785,0.000
+					8.68487333766371,50.12069355123901,0.000
+					8.684775891210473,50.121044202944326,0.000
+					8.683544883974696,50.121254592734644,0.000
+					8.683505109912149,50.1212380166029,0.000
+					8.683447437521458,50.12091669353048,0.000
+					8.683386782076079,50.12061321975946,0.000
+					8.683405674755784,50.12042960444288,0.000
+					8.683449426224586,50.11962372889161,0.000
+					8.683711935037383,50.119440109779774,0.000
+					8.684169336756655,50.11921568546445,0.000
+					8.684010240506474,50.11909072146924,0.000
+					8.684002030997432,50.11908915645661,0.000
+					8.682590635993769,50.119933117272964,0.000
+					8.682816617778064,50.11887562184348,0.000
+					8.682625108778332,50.11886948339207,0.000
+					8.682237988569833,50.120403549063624,0.000
+					8.682393351046535,50.120423567335145,0.000
+					8.682466943798659,50.12019240345178,0.000
+					8.682603722247046,50.12008818074477,0.000
+					8.683196019922205,50.12016615949975,0.000
+					8.683200507415377,50.12013100433043,0.000
+					8.682930886249347,50.12009160650209,0.000
+					8.682734487450329,50.120059188881235,0.000
+					8.683138194185164,50.119786950269635,0.000
+					8.683196599035043,50.11979898241273,0.000
+					8.683200589939023,50.12012969315975,0.000
+					8.683200630678524,50.120130459111245,0.000
+					8.683200644969904,50.12013092415114,0.000
+					8.683200552075938,50.12013437644215,0.000
+					8.683204802435446,50.120479735248125,0.000
+					8.682445131145315,50.12043136269837,0.000
+					8.681595954909971,50.12032042810739,0.000
+					8.681889288621242,50.11904927925595,0.000
+					8.681889288621242,50.11902377633763,0.000
+					8.68165859905848,50.11905724891515,0.000
+					8.681368248401899,50.12026925924141,0.000
+					8.68080743412001,50.120167250086205,0.000
+					8.67994831436903,50.12024375697299,0.000
+					8.680017918978486,50.12037318084475,0.000
+					8.680612541213538,50.12033110218592,0.000
+					8.680865106510701,50.12033110218592,0.000
+					8.682217424637244,50.12052109341262,0.000
+					8.683203821388366,50.12059664340566,0.000
+					8.683299279138476,50.12128009446461,0.000
+					8.682794148544149,50.12130814635184,0.000
+					8.682281063137316,50.121239291690195,0.000
+					8.682421122092544,50.12053721706925,0.000
+					8.682204872337833,50.120521067457396,0.000
+					8.682062305793316,50.12120486432223,0.000
+					8.681751570929679,50.121124533700694,0.000
+					8.681309084483862,50.12110795752392,0.000
+					8.68039925280314,50.12113855969195,0.000
+					8.680465874357902,50.12124949238706,0.000
+					8.681480112952809,50.12122016537771,0.000
+					8.681661084937389,50.12123036607865,0.000
+					8.682040678646807,50.121289503204906,0.000
+					8.682126192881281,50.12218715526665,0.000
+					8.681157887691201,50.12226475759776,0.000
+					8.681290191804154,50.12242622372714,0.000
+					8.683732162675739,50.1222706907788,0.000
+					8.683732165135497,50.12226787709078,0.000
+					8.683728682445265,50.122262761500146,0.000
+					8.683682353078366,50.122127227315296,0.000
+					8.682404611319097,50.122192255514356,0.000
+					8.68225371846932,50.121364409462494,0.000
+					8.682766803876152,50.121447289844966,0.000
+					8.68329182150175,50.12139628654965,0.000
+					8.683652180723113,50.12151821625959,0.000
+					8.683732567832333,50.122268614724454,0.000
+					8.683731977436091,50.12228784521275,0.000
+					8.683732971787656,50.122306413260404,0.000
+					8.683734463315002,50.12232856740228,0.000
+					8.683729367263238,50.122962824978366,0.000
+					8.68125389797208,50.12301019572892,0.000
+					8.681317536472156,50.12319890128779,0.000
+				</coordinates>
+			</LinearRing>
+		</outerBoundaryIs>
+	</Polygon>
+</MultiGeometry>
+</Placemark>
+
+</Document>
+</kml>

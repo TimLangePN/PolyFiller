@@ -1,0 +1,40 @@
+ZONE_CODE;LAT;LON;CITY;DISPLAY_STREETNAME;GOOGLE_STREETNAME;ZONE_STREET;ZONE_DESCRIPTION;Tariff_range;Unieke ID
+5 +;47.49078887470461;11.212332222500246;Krün;Gerold 6;Gerold 6;Gerold 6;0 - 0,99;Krün - Zone 5 +;DEKRÜ1
+5 +;47.490691326411;11.211030518464502;Krün;Gerold 8;Gerold 8;Gerold 8;0 - 0,99;Krün - Zone 5 +;DEKRÜ2
+5 +;47.49078623534297;11.212257340245285;Krün;Gerold 6;Gerold 6;Gerold 6;0 - 0,99;Krün - Zone 5 +;DEKRÜ3
+5 +;47.49079994656968;11.212678073876475;Krün;Gerold 7;Gerold 7;Gerold 7;0 - 0,99;Krün - Zone 5 +;DEKRÜ4
+5 +;47.49068407476047;11.21147744266634;Krün;Gerold 9;Gerold 9;Gerold 9;0 - 0,99;Krün - Zone 5 +;DEKRÜ5
+5 +;47.506696201450296;11.275737229766467;Krün;Krottenkopfstraße 14;Krottenkopfstraße 14;Krottenkopfstraße 14;0 - 0,99;Krün - Zone 5 +;DEKRÜ6
+5 +;47.506486067813704;11.275772950124733;Krün;Krottenkopfstraße 14;Krottenkopfstraße 14;Krottenkopfstraße 14;0 - 0,99;Krün - Zone 5 +;DEKRÜ7
+5 +;47.50657195189031;11.275204820720045;Krün;Krottenkopfstraße 16;Krottenkopfstraße 16;Krottenkopfstraße 16;0 - 0,99;Krün - Zone 5 +;DEKRÜ8
+5 +;47.506538103712735;11.27530497298848;Krün;Krottenkopfstraße 16;Krottenkopfstraße 16;Krottenkopfstraße 16;0 - 0,99;Krün - Zone 5 +;DEKRÜ9
+5 +;47.5067627618245;11.275126436184268;Krün;Krottenkopfstraße 18;Krottenkopfstraße 18;Krottenkopfstraße 18;0 - 0,99;Krün - Zone 5 +;DEKRÜ10
+5 +;47.50574001064011;11.272202593076141;Krün;Finzbachstraße 2a;Finzbachstraße 2a;Finzbachstraße 2a;0 - 0,99;Krün - Zone 5 +;DEKRÜ11
+5 +;47.50533435441905;11.271898053414246;Krün;Finzbachstraße 2a;Finzbachstraße 2a;Finzbachstraße 2a;0 - 0,99;Krün - Zone 5 +;DEKRÜ12
+5 +;47.505474258322245;11.271933731800562;Krün;Finzbachstraße 2a;Finzbachstraße 2a;Finzbachstraße 2a;0 - 0,99;Krün - Zone 5 +;DEKRÜ13
+5 +;47.505024371061786;11.271395267151927;Krün;Finzbachstraße 2a;Finzbachstraße 2a;Finzbachstraße 2a;0 - 0,99;Krün - Zone 5 +;DEKRÜ14
+5 +;47.50519288951555;11.271606044622573;Krün;Finzbachstraße 2a;Finzbachstraße 2a;Finzbachstraße 2a;0 - 0,99;Krün - Zone 5 +;DEKRÜ15
+5 +;47.4954438170801;11.253316826167346;Krün;Am Barmsee 5;Am Barmsee 5;Am Barmsee 5;0 - 0,99;Krün - Zone 5 +;DEKRÜ16
+5 +;47.49417613488714;11.253324852728353;Krün;Am Barmsee 1;Am Barmsee 1;Am Barmsee 1;0 - 0,99;Krün - Zone 5 +;DEKRÜ17
+5 +;47.494680689022545;11.25326804080922;Krün;Am Barmsee 1;Am Barmsee 1;Am Barmsee 1;0 - 0,99;Krün - Zone 5 +;DEKRÜ18
+5 +;47.49341442351133;11.253468456187653;Krün;Am Barmsee 1;Am Barmsee 1;Am Barmsee 1;0 - 0,99;Krün - Zone 5 +;DEKRÜ19
+5 +;47.495184933877695;11.25332730718569;Krün;Am Barmsee 2;Am Barmsee 2;Am Barmsee 2;0 - 0,99;Krün - Zone 5 +;DEKRÜ20
+5 +;47.497979704546246;11.260401197077286;Krün;B 2;B 2;B 2;0 - 0,99;Krün - Zone 5 +;DEKRÜ21
+5 +;47.49792137016253;11.26015062010944;Krün;B 2;B 2;B 2;0 - 0,99;Krün - Zone 5 +;DEKRÜ22
+5 +;47.49775843260932;11.259949277133398;Krün;B 2;B 2;B 2;0 - 0,99;Krün - Zone 5 +;DEKRÜ23
+5 +;47.49818661247424;11.260717256621342;Krün;B 2;B 2;B 2;0 - 0,99;Krün - Zone 5 +;DEKRÜ24
+5 +;47.497660212269984;11.259823172033064;Krün;B 2;B 2;B 2;0 - 0,99;Krün - Zone 5 +;DEKRÜ25
+5 +;47.48360078285828;11.235868065557023;Krün;Hauptstraße 18a;Hauptstraße 18a;Hauptstraße 18a;0 - 0,99;Krün - Zone 5 +;DEKRÜ26
+5 +;47.48342824663062;11.236242652971924;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ27
+5 +;47.48342055232499;11.236473356986377;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ28
+5 +;47.48328149951285;11.236778387663756;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ29
+5 +;47.48340391208495;11.236462446909655;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ30
+5 +;47.50430130086131;11.286375883336579;Krün;Griesweg 8;Griesweg 8;Griesweg 8;0 - 0,99;Krün - Zone 5 +;DEKRÜ31
+5 +;47.50399280786619;11.286022354636792;Krün;Griesweg 8;Griesweg 8;Griesweg 8;0 - 0,99;Krün - Zone 5 +;DEKRÜ32
+5 +;47.504200167967944;11.285319468082367;Krün;Griesweg 8;Griesweg 8;Griesweg 8;0 - 0,99;Krün - Zone 5 +;DEKRÜ33
+5 +;47.50399184197519;11.28566658421645;Krün;Griesweg 8;Griesweg 8;Griesweg 8;0 - 0,99;Krün - Zone 5 +;DEKRÜ34
+5 +;47.5042253619233;11.285206721548152;Krün;Griesweg 8;Griesweg 8;Griesweg 8;0 - 0,99;Krün - Zone 5 +;DEKRÜ35
+5 +;47.483746404732415;11.234886350572655;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ36
+5 +;47.483587485254375;11.235208851424858;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ37
+5 +;47.48364832450027;11.235250833055604;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ38
+5 +;47.483567712907245;11.235284615356411;Krün;Bahnhofstraße 27;Bahnhofstraße 27;Bahnhofstraße 27;0 - 0,99;Krün - Zone 5 +;DEKRÜ39
