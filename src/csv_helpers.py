@@ -1,19 +1,4 @@
 import sys
-
-# for match support you need 3.10 or higer, todo: add to requirements.txt 
-
-# TODO: We are not using the match case, you can still replace this with match case as per the latest release of python https://docs.python.org/3.10/whatsnew/3.10.html
-# match subject:
-#     case <pattern_1>:
-#         <action_1>
-#     case <pattern_2>:
-#         <action_2>
-#     case <pattern_3>:
-#         <action_3>
-#     case _:
-#         <action_wildcard>
-
-# requires update of both your local python instalation and virtualenv, so you can decide whether it's worth or not.
 full_list = []
 
 def resolve_tariff_range(style):

@@ -90,7 +90,7 @@
 <Placemark>
 <name>13</name>
 <description><![CDATA[<p>1 - 1,99</p>]]></description>
-<styleUrl></styleUrl>
+<styleUrl>#style2</styleUrl>
 <MultiGeometry>
 	<Polygon>
 		<outerBoundaryIs>

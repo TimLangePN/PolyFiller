@@ -19,10 +19,10 @@ def validate_content(event, values, window):
         return False, 'Amount of Points can not be empty'
     try:
         points = int(values['points'])
-        assert points < 10
+        assert points < 15
     except:
         value_resetter(window)
-        return False, 'Insert a number smaller than 10'
+        return False, 'Insert an amount smaller than 15'
     try:
         assert os.path.exists(kml_path) == True
         assert kml_path.endswith('.kml') == True
