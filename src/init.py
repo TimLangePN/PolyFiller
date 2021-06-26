@@ -40,7 +40,7 @@ def init(amount_of_points, counter,  kml_path):
             return 'missing tariff feature within kml file'
         try:
             # grab the zone_code from the attribute name
-            zone_code = feature.name # TODO: What if feature name is empty or forgotten, this would mean your entire generated CSV is considered `bad`, whilst you're still returning a `success` to the client.
+            zone_code = feature.name
         except:
             return 'missing name feature within kml file'
         zone_description = f'{city_name} - Zone {zone_code}'
