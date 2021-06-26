@@ -30,19 +30,19 @@ def init(amount_of_points, counter,  kml_path):
                 feature_geometry_obj = feature._features[0]._geometry.geometry
         # Need to replace link with proper wiki ref
         except:
-            sg.popup('Unable to parse polygons that are defined within the KML, please refer to: https://github.com/TimLangePN/PolyFiller/wiki')
-            return
+            return 'Unable to parse polygons that are defined within the KML, please refer to: https://github.com/TimLangePN/PolyFiller#readme'
         # Compute N random computed coordinates within the bounds of a feature.geometry object
         random_coordinates_list = generate_random_coordinates(amount_of_points, feature_geometry_obj)
 
         # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
         tariff_range = resolve_tariff_range(feature.styleUrl)
+        if tariff_range == False:
+            return 'missing tariff feature within kml file'
         try:
             # grab the zone_code from the attribute name
             zone_code = feature.name # TODO: What if feature name is empty or forgotten, this would mean your entire generated CSV is considered `bad`, whilst you're still returning a `success` to the client.
         except:
-            sg.popup('can not recieve zone_code, is the name header in the .kml filled?')
-            sys.exit()
+            return 'missing name feature within kml file'
         zone_description = f'{city_name} - Zone {zone_code}'
 
         # Initialize a list that is used for storing N random generated points per feature
@@ -56,17 +56,16 @@ def init(amount_of_points, counter,  kml_path):
             # Retrieve the street name for a computed random generated coordinate
             street_name = resolve_street_name(str(coordinates.y), str(coordinates.x))
 
-            total_items = get_total_items(zone_code, str(coordinates.y), str(coordinates.x), country_prefix, city_name, street_name, zone_description, tariff_range, counter)
-
-            full_list = total_items[0]
-            counter = total_items[1]
+            # Appends all values to a list to make it writeable for write_csv
+            rows_and_counter = get_all_rows(zone_code, str(coordinates.y), str(coordinates.x), country_prefix, city_name, street_name, zone_description, tariff_range, counter)
+            all_rows = rows_and_counter[0]
+            counter = rows_and_counter[1]
 
             # Opens a another window with a progress bar that walks through the total calculated points
             # Returns a false value when cancelled/done
             progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'key', 'Writing to .csv', no_titlebar=True)
             if progess_bar == False and counter == total_points:
-                write_header(file_name)
-                write_rows(file_name, full_list)
+                write_csv(file_name, all_rows)
                 return 'csv has been created'
             elif progess_bar == False and counter != total_points :
                 return 'cancelled by user'

@@ -1,8 +1,13 @@
 import PySimpleGUI as sg
-from validator import *
-from main import *
+from input_validator import *
+from init import *
+import ctypes
 
 counter = 0
+
+# This bit gets the taskbar icon working properly in Windows
+if sys.platform.startswith('win'):
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'CompanyName.ProductName.SubProduct.VersionInformation') # Arbitrary string
 
 sg.theme('dark black')
 layout = [[sg.Text('Add a KML:')],
@@ -10,7 +15,7 @@ layout = [[sg.Text('Add a KML:')],
           [sg.Text('Amount of Points per Polygon'), sg.Input(key='points', size=(3, None))],
           [sg.OK('Start'), sg.Cancel('Cancel')]]
 
-window = sg.Window('PolyFiller', layout, icon='favicon.ico')
+window = sg.Window('PolyFiller', layout, icon='poly.ico')
 
 # Event loop to check if values are correct/filled
 while True:
