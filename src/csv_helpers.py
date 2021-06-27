@@ -1,4 +1,3 @@
-import sys
 all_rows = []
 
 def resolve_tariff_range(style):

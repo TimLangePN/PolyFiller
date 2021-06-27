@@ -3,11 +3,15 @@ from csv_writer import *
 from reverse_geocoder import *
 from name_resolver import *
 from kml_parser import *
-from bootstrap import *
 from csv_helpers import *
 import PySimpleGUI as sg
+import ctypes
 
-def init(amount_of_points, counter,  kml_path):
+# This bit gets the taskbar icon working properly in Windows
+if sys.platform.startswith('win'):
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'polyfiller')
+
+def init(amount_of_points, counter, kml_path):
 
     # Init parse of the KML. 
     features = parse_kml(kml_path)
@@ -63,7 +67,7 @@ def init(amount_of_points, counter,  kml_path):
 
             # Opens a another window with a progress bar that walks through the total calculated points
             # Returns a false value when cancelled/done
-            progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'key', 'Writing to .csv', no_titlebar=True)
+            progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'Writing to .csv', no_titlebar=True)
             if progess_bar == False and counter == total_points:
                 write_csv(file_name, all_rows)
                 return 'csv has been created'

@@ -1,8 +1,8 @@
 from mapbox import *
-from bootstrap import *
+from authorizer import *
 import sys
 
-mapbox_api_key = retrieve_mapbox_api_key()
+mapbox_api_key = TryGetKeyFile()
 geocoder = Geocoder(access_token=mapbox_api_key)
 
 def resolve_street_name(y, x):
@@ -14,6 +14,3 @@ def resolve_street_name(y, x):
         return street_name
     else:
         sys.exit('Coordinates cannot be empty')
-
-    # Turn this if and else around, if lat lon are not null we will perform the geocoder,
-    # main logic first, alt cases after, what if they are not null but they are "Blabla", it would still trigger the geocoder.
