@@ -41,10 +41,10 @@ def init(amount_of_points, counter, kml_path):
 
         # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
         try:
-            if hasattr(feature._features[0], 'styleUrl'):
-                style_feature = feature._features[0].styleUrl
-            elif hasattr(feature, 'styleUrl'):
+            if feature.styleUrl is not None:
                 style_feature = feature.styleUrl
+            elif hasattr(feature._features[0], 'styleUrl'):
+                style_feature = feature._features[0].styleUrl
         except:
             return 'Unable to parse StyleUrl'
         tariff_range = resolve_tariff_range(style_feature)
