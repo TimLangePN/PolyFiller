@@ -17,7 +17,12 @@ window = sg.Window('PolyFiller', layout, icon='poly.ico')
 
 # Event loop to check if values are correct/filled
 while True:
+
     event, values = window.read()
+    
+    if event == sg.WIN_CLOSED or event == 'Cancel':
+        window.close()
+        sys.exit()
 
     validator_status = validate_content(event, values, window)[0]
     validator_message = validate_content(event, values, window)[1]

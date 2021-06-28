@@ -4,10 +4,6 @@ import sys
 
 def validate_content(event, values, window):
     kml_path = values['file']
-
-    if event == sg.WIN_CLOSED or event == 'Cancel':
-        window.close()
-        sys.exit()
     if event == 'Start' and kml_path == '':
         return False, 'KML can not be empty'
     elif event == 'Start' and values['points'] == '':
