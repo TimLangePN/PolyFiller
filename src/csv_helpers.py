@@ -1,17 +1,17 @@
 all_rows = []
 
 def resolve_tariff_range(style):
-    if style == '#style1':
+    if style == '#style1' or style == '#Style1':
         return '0 - 0,99'
-    elif style == '#style2':
+    elif style == '#style2' or style == '#Style2':
         return '1 - 1,99'
-    elif style == '#style3':
+    elif style == '#style3' or style == '#Style3':
         return '2 - 2,99'
-    elif style == '#style4':
+    elif style == '#style4' or style == '#Style4':
         return '3 - 3,99'
-    elif style == '#style5':
+    elif style == '#style5' or style == '#Style5':
         return '4 - 4,99'
-    elif style == '#style6':
+    elif style == '#style6' or style == '#Style6':
         return '5 +'
     else:
         return False

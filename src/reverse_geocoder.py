@@ -1,4 +1,4 @@
-from mapbox import *
+from mapbox import Geocoder
 from authorizer import *
 import sys
 

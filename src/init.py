@@ -20,8 +20,9 @@ def init(amount_of_points, counter, kml_path):
     country_prefix, city_name = get_country_prefix_and_city_name(
         features[0].name)
 
-    # Concatenate country_prefix and city_name to file_name
-    file_name = f'data\\{country_prefix}_{city_name}.csv'
+    # Concatenate country_prefix and city_name to file_name absolute
+    path = os.path.dirname(kml_path)   
+    file_name = f'{path}/{country_prefix}_{city_name}.csv'
 
     # Retrieve nested features and puts them in a list
     nested_features = list(features[0].features())
@@ -39,14 +40,21 @@ def init(amount_of_points, counter, kml_path):
         random_coordinates_list = generate_random_coordinates(amount_of_points, feature_geometry_obj)
 
         # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
-        tariff_range = resolve_tariff_range(feature.styleUrl)
+        try:
+            if hasattr(feature._features[0], 'styleUrl'):
+                style_feature = feature._features[0].styleUrl
+            elif hasattr(feature, 'styleUrl'):
+                style_feature = feature.styleUrl
+        except:
+            return 'Unable to parse StyleUrl'
+        tariff_range = resolve_tariff_range(style_feature)
         if tariff_range == False:
-            return 'missing tariff feature within kml file'
+            return 'Missing tariff feature within kml file'
         try:
             # grab the zone_code from the attribute name
             zone_code = feature.name
         except:
-            return 'missing name feature within kml file'
+            return 'Missing name feature within kml file'
         zone_description = f'{city_name} - Zone {zone_code}'
 
         # Initialize a list that is used for storing N random generated points per feature
