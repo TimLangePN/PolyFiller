@@ -3,6 +3,9 @@ from input_validator import *
 from init import *
 from authorizer import *
 
+os.chdir(sys._MEIPASS)
+icon_path = 'poly.ico'
+
 counter = 0
 
 TryGetKeyFile()
@@ -13,11 +16,10 @@ layout = [[sg.Text('Add a KML:')],
           [sg.Text('Amount of Points per Polygon'), sg.Input(key='points', size=(3, None))],
           [sg.OK('Start'), sg.Cancel('Cancel')]]
 
-window = sg.Window('PolyFiller', layout, icon='poly.ico')
+window = sg.Window('PolyFiller', layout, icon=icon_path)
 
 # Event loop to check if values are correct/filled
 while True:
-
     event, values = window.read()
     
     if event == sg.WIN_CLOSED or event == 'Cancel':

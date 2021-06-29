@@ -9,7 +9,7 @@ import ctypes
 
 # This bit gets the taskbar icon working properly in Windows
 if sys.platform.startswith('win'):
-    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'polyfiller')
+    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'PolyFiller')
 
 def init(amount_of_points, counter, kml_path):
 

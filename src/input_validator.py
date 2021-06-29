@@ -1,6 +1,4 @@
-import PySimpleGUI as sg
 import os
-import sys
 
 def validate_content(event, values, window):
     kml_path = values['file']

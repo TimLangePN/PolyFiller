@@ -5,6 +5,9 @@ from mapbox import *
 import os
 import ctypes
 
+os.chdir(sys._MEIPASS)
+icon_path = 'poly.ico'
+
 # This bit gets the taskbar icon working properly in Windows
 if sys.platform.startswith('win'):
     ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'polyfiller')
@@ -42,7 +45,7 @@ def PromptUserForKey():
                     [sg.InputText()],      
                     [sg.Submit(), sg.Cancel()]]      
 
-    window = sg.Window('PolyFiller', layout, icon='poly.ico')    
+    window = sg.Window('PolyFiller', layout, icon=icon_path)    
 
     event, values = window.read()
 
