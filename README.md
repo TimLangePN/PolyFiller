@@ -3,7 +3,9 @@
 PolyFiller is a tool written in Python to generate location based points within a certain geographical area. <br> 
 By reading through a provided .KML file it generates points within that area.
 
-# Dependencies
+<br>
+
+## Dependencies
 
 PolyFiller uses the following libraries and it's dependencies:
 
@@ -13,26 +15,28 @@ PolyFiller uses the following libraries and it's dependencies:
 - Shapely
 - mapbox
 
-# KML Requirements
+<br>
+
+## KML Requirements
 
 To generate the best possible CSV file the following things have to be in order:
 
 <br>
 
-> The name header and filename:
+> ### The name header and filename:
 
 ```html
 <name>FR_Toulouse</name>       <!--country_prefix + city_name-->
 ```
 
-> The polygon attributes:
+> ### The polygon attributes:
 ```html
 <name>55</name>                                         <!--zone_code-->
 <description><![CDATA[<p>4 - 4,99</p>]]></description>  <!--tariff_range-->
 <styleUrl>#style4</styleUrl>                       <!--correct styleUrl-->
 ```
 
-> The coordinates:
+> ### The coordinates:
 ```html
 <coordinates>
     1.4296621437324202,43.59769370449716,0.000
@@ -44,7 +48,7 @@ To generate the best possible CSV file the following things have to be in order:
 ```
 <br>
 
-### Output CSV
+## Output CSV
 
 
 | ZONE_CODE | LAT         | LON         | CITY     | DISPLAY_STREETNAME       | GOOGLE_STREETNAME        | ZONE_STREET              | ZONE_DESCRIPTION   | Tariff_range | Unieke ID |
