@@ -6,11 +6,7 @@ from kml_parser import *
 from csv_helpers import *
 from xls_writer import *
 import PySimpleGUI as sg
-import ctypes
-
-# This bit gets the taskbar icon working properly in Windows
-if sys.platform.startswith('win'):
-    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'PolyFiller')
+from bootstrap import *
 
 def init(amount_of_points, counter, kml_path):
 
@@ -81,6 +77,6 @@ def init(amount_of_points, counter, kml_path):
                 write_csv(file_name, all_rows)
                 write_xls(file_name)
                 all_rows.clear()
-                return 'csv has been created'
+                return 'csv/xls have been created'
             elif progess_bar == False and counter != total_points :
                 return 'cancelled by user'

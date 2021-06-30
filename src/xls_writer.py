@@ -1,5 +1,4 @@
-from pyexcel.cookbook import merge_all_to_a_book
-import glob
+import pandas as pd
 
 def write_xls(file_name):
-    merge_all_to_a_book(glob.glob(f"{file_name}.csv"), f"{file_name}.xlsx")
+    pd.read_csv(f"{file_name}.csv", delimiter=";", decimal=',', converters={'ZONE_CODE':int},).to_excel(f"{file_name}.xls", index=False)

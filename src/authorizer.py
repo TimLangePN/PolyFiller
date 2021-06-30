@@ -3,14 +3,7 @@ import sys
 import PySimpleGUI as sg      
 from mapbox import *
 import os
-import ctypes
-
-os.chdir(sys._MEIPASS)
-icon_path = 'poly.ico'
-
-# This bit gets the taskbar icon working properly in Windows
-if sys.platform.startswith('win'):
-    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'polyfiller')
+from bootstrap import *
 
 # Create hidden .key file in home dir if it does not exist. 
 def TryGetKeyFile():

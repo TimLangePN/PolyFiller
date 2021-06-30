@@ -8,7 +8,7 @@ def write_csv(file_name, row_list):
     
     if os.path.exists(file_name):
         os.remove(file_name)
-    with open(file_name, 'a', newline='') as file_name:
+    with open(file_name, 'a', encoding="utf-8", newline='') as file_name:
         writer = csv.writer(file_name, delimiter=';', quoting=csv.QUOTE_NONE)
         writer.writerow([header for header in schema])
         writer.writerows(row_list)
