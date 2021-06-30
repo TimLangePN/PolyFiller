@@ -3,9 +3,6 @@ from input_validator import *
 from init import *
 from authorizer import *
 
-os.chdir(sys._MEIPASS)
-icon_path = 'poly.ico'
-
 counter = 0
 
 TryGetKeyFile()

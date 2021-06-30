@@ -4,12 +4,9 @@ from reverse_geocoder import *
 from name_resolver import *
 from kml_parser import *
 from csv_helpers import *
+from xls_writer import *
 import PySimpleGUI as sg
-import ctypes
-
-# This bit gets the taskbar icon working properly in Windows
-if sys.platform.startswith('win'):
-    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'PolyFiller')
+from bootstrap import *
 
 def init(amount_of_points, counter, kml_path):
 
@@ -22,7 +19,7 @@ def init(amount_of_points, counter, kml_path):
 
     # Concatenate country_prefix and city_name to file_name absolute
     path = os.path.dirname(kml_path)   
-    file_name = f'{path}/{country_prefix}_{city_name}.csv'
+    file_name = f'{path}/{country_prefix}_{city_name}'
 
     # Retrieve nested features and puts them in a list
     nested_features = list(features[0].features())
@@ -78,6 +75,8 @@ def init(amount_of_points, counter, kml_path):
             progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'Writing to .csv', no_titlebar=True)
             if progess_bar == False and counter == total_points:
                 write_csv(file_name, all_rows)
-                return 'csv has been created'
+                write_xls(file_name)
+                all_rows.clear()
+                return 'csv/xls have been created'
             elif progess_bar == False and counter != total_points :
                 return 'cancelled by user'
