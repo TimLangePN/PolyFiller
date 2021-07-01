@@ -1,13 +1,12 @@
+from bootstrap import *
 import PySimpleGUI as sg
 from input_validator import *
 from init import *
 from authorizer import *
 
 counter = 0
-
 TryGetKeyFile()
 
-sg.theme('dark black')
 layout = [[sg.Text('Add a KML:')],
           [sg.Input(key='file'), sg.FileBrowse(key='file')],
           [sg.Text('Amount of Points per Polygon'), sg.Input(key='points', size=(3, None))],
@@ -29,8 +28,8 @@ while True:
     kml_path = values['file']
 
     if validator_status == False:
-        sg.popup(validator_message)
+        popup_message(validator_message)
     elif validator_status == True:
         amount_of_points = int(values['points'])
         init_response = init(amount_of_points, counter, kml_path)
-        sg.popup(init_response)
+        popup_message(init_response)

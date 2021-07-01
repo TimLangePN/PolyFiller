@@ -30,27 +30,24 @@ def init(amount_of_points, counter, kml_path):
                 feature_geometry_obj = feature.geometry
             elif hasattr(feature._features[0]._geometry, 'geometry'):
                 feature_geometry_obj = feature._features[0]._geometry.geometry
-        # Need to replace link with proper wiki ref
         except:
             return 'Unable to parse polygons that are defined within the KML, please refer to: https://github.com/TimLangePN/PolyFiller#readme'
+
         # Compute N random computed coordinates within the bounds of a feature.geometry object
         random_coordinates_list = generate_random_coordinates(amount_of_points, feature_geometry_obj)
 
-        # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
-        try:
-            if feature.styleUrl is not None:
-                style_feature = feature.styleUrl
-            elif hasattr(feature._features[0], 'styleUrl'):
-                style_feature = feature._features[0].styleUrl
-        except:
-            return 'Unable to parse StyleUrl'
-        tariff_range = resolve_tariff_range(style_feature)
+        # Retrieve the tariff_range from the description field
+        # Else grabs tariff range from styleUrl
+
+        tariff_range = get_tariff_and_id(feature)[0]
         if tariff_range == False:
+            sg.one_line_progress_meter_cancel(key='progress')
             return 'Missing tariff feature within kml file'
         try:
-            # grab the zone_code from the attribute name
-            zone_code = feature.name
+            # grab the zone_code from the get_tariff_and_id function
+            zone_code = get_tariff_and_id(feature)[1]
         except:
+            sg.one_line_progress_meter_cancel(key='progress')
             return 'Missing name feature within kml file'
         zone_description = f'{city_name} - Zone {zone_code}'
 
@@ -72,7 +69,7 @@ def init(amount_of_points, counter, kml_path):
 
             # Opens a another window with a progress bar that walks through the total calculated points
             # Returns a false value when cancelled/done
-            progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'Writing to .csv', no_titlebar=True)
+            progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'Writing to .csv', key='progress', no_titlebar=True, grab_anywhere=True)
             if progess_bar == False and counter == total_points:
                 write_csv(file_name, all_rows)
                 write_xls(file_name)
