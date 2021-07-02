@@ -4,6 +4,9 @@ from input_validator import *
 from init import *
 from authorizer import *
 
+def popup_message(message):
+    sg.popup(message, icon=icon_path, no_titlebar=True, background_color='grey', grab_anywhere=True, keep_on_top=True, any_key_closes=True)
+
 counter = 0
 TryGetKeyFile()
 

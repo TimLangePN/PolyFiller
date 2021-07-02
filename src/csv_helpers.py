@@ -1,14 +1,6 @@
 all_rows = []
-tariff_list = ['0 - 0,99', '1 - 1,99', '2 - 2,99', '3 - 3,99', '4 - 4,99', '5 +']
 
-def resolve_tariff_range(feature):
-    try:
-        if feature.styleUrl is not None:
-            style = feature.styleUrl
-        elif hasattr(feature._features[0], 'styleUrl'):
-            style = feature._features[0].styleUrl
-    except:
-        return False
+def resolve_tariff_range(style):
     if style == '#style1' or style == '#Style1':
         return '0 - 0,99'
     elif style == '#style2' or style == '#Style2':
@@ -40,14 +32,19 @@ def get_all_rows(zone_code, lat, lon, country_prefix, city_name, street_name, zo
         all_rows.append(row_attributes)
         return all_rows, counter 
 
-def get_tariff_and_id(feature):
-    try:
-        if any(tariffs in feature.description for tariffs in tariff_list):
-            splitted_features = feature.description.split("\n<br/>", 2,)
-            tariff_range = splitted_features[0].split(': ')[1]
-            zone_code = splitted_features[1].split(': ')[1].split('</p>')[0]
-            return tariff_range, zone_code
-        else:
-            return resolve_tariff_range(feature), feature.name
+def get_zone_code(feature):
+    try: 
+        return feature.extended_data.elements[1].value
     except:
-            return resolve_tariff_range(feature), feature.name
+        return feature.name
+
+def get_tariff_range_from_kml(feature):
+    try:
+        if hasattr(feature.extended_data, 'elements'): 
+            return feature.extended_data.elements[0].value
+        elif feature.styleUrl is not None:
+            return resolve_tariff_range(feature.styleUrl)
+        elif hasattr(feature._features[0], 'styleUrl'):
+            return resolve_tariff_range(feature._features[0].styleUrl)
+    except:
+        return False

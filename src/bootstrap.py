@@ -14,6 +14,3 @@ sg.theme('dark black')
 # This bit gets the taskbar icon working properly in Windows
 if sys.platform.startswith('win'):
     ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'polyfiller')
-
-def popup_message(message):
-    sg.popup(message, icon=icon_path, no_titlebar=True, background_color='grey', grab_anywhere=True, keep_on_top=True, any_key_closes=True)

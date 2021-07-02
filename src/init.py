@@ -14,8 +14,7 @@ def init(amount_of_points, counter, kml_path):
     features = parse_kml(kml_path)
 
     # Extract country_prefix (e.g. 'FR') and city_name (e.g. 'Toulouse') from KML root
-    country_prefix, city_name = get_country_prefix_and_city_name(
-        features[0].name)
+    country_prefix, city_name = get_country_prefix_and_city_name(features[0].name)
 
     # Concatenate country_prefix and city_name to file_name absolute
     path = os.path.dirname(kml_path)   
@@ -36,16 +35,15 @@ def init(amount_of_points, counter, kml_path):
         # Compute N random computed coordinates within the bounds of a feature.geometry object
         random_coordinates_list = generate_random_coordinates(amount_of_points, feature_geometry_obj)
 
-        # Retrieve the tariff_range from the description field
-        # Else grabs tariff range from styleUrl
+        # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
+        tariff_range = get_tariff_range_from_kml(feature)
 
-        tariff_range = get_tariff_and_id(feature)[0]
         if tariff_range == False:
             sg.one_line_progress_meter_cancel(key='progress')
             return 'Missing tariff feature within kml file'
         try:
-            # grab the zone_code from the get_tariff_and_id function
-            zone_code = get_tariff_and_id(feature)[1]
+            # grab the zone_code from the attribute name or unique_ID
+            zone_code = get_zone_code(feature)
         except:
             sg.one_line_progress_meter_cancel(key='progress')
             return 'Missing name feature within kml file'
