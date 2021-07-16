@@ -33,7 +33,6 @@ def TryGetKeyFile():
 
 def PromptUserForKey():
     
-    sg.theme('dark black')
     layout = [[sg.Text('Please enter your Mapbox key')],      
                     [sg.InputText()],      
                     [sg.Submit(), sg.Cancel()]]      
