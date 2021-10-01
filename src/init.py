@@ -4,12 +4,9 @@ from reverse_geocoder import *
 from name_resolver import *
 from kml_parser import *
 from csv_helpers import *
+from xls_writer import *
 import PySimpleGUI as sg
-import ctypes
-
-# This bit gets the taskbar icon working properly in Windows
-if sys.platform.startswith('win'):
-    ctypes.windll.shell32.SetCurrentProcessExplicitAppUserModelID(u'PolyFiller')
+from bootstrap import *
 
 def init(amount_of_points, counter, kml_path):
 
@@ -17,12 +14,11 @@ def init(amount_of_points, counter, kml_path):
     features = parse_kml(kml_path)
 
     # Extract country_prefix (e.g. 'FR') and city_name (e.g. 'Toulouse') from KML root
-    country_prefix, city_name = get_country_prefix_and_city_name(
-        features[0].name)
+    country_prefix, city_name = get_country_prefix_and_city_name(features[0].name)
 
     # Concatenate country_prefix and city_name to file_name absolute
     path = os.path.dirname(kml_path)   
-    file_name = f'{path}/{country_prefix}_{city_name}.csv'
+    file_name = f'{path}/{country_prefix}_{city_name}'
 
     # Retrieve nested features and puts them in a list
     nested_features = list(features[0].features())
@@ -33,27 +29,23 @@ def init(amount_of_points, counter, kml_path):
                 feature_geometry_obj = feature.geometry
             elif hasattr(feature._features[0]._geometry, 'geometry'):
                 feature_geometry_obj = feature._features[0]._geometry.geometry
-        # Need to replace link with proper wiki ref
         except:
             return 'Unable to parse polygons that are defined within the KML, please refer to: https://github.com/TimLangePN/PolyFiller#readme'
+
         # Compute N random computed coordinates within the bounds of a feature.geometry object
         random_coordinates_list = generate_random_coordinates(amount_of_points, feature_geometry_obj)
 
         # Retrieve the tariff_range (e.g. '1 - 1,99) from the styleUrl that's attached to a feature
-        try:
-            if feature.styleUrl is not None:
-                style_feature = feature.styleUrl
-            elif hasattr(feature._features[0], 'styleUrl'):
-                style_feature = feature._features[0].styleUrl
-        except:
-            return 'Unable to parse StyleUrl'
-        tariff_range = resolve_tariff_range(style_feature)
+        tariff_range = get_tariff_range_from_kml(feature)
+
         if tariff_range == False:
+            sg.one_line_progress_meter_cancel(key='progress')
             return 'Missing tariff feature within kml file'
         try:
-            # grab the zone_code from the attribute name
-            zone_code = feature.name
+            # grab the zone_code from the attribute name or unique_ID
+            zone_code = get_zone_code(feature)
         except:
+            sg.one_line_progress_meter_cancel(key='progress')
             return 'Missing name feature within kml file'
         zone_description = f'{city_name} - Zone {zone_code}'
 
@@ -75,9 +67,11 @@ def init(amount_of_points, counter, kml_path):
 
             # Opens a another window with a progress bar that walks through the total calculated points
             # Returns a false value when cancelled/done
-            progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'Writing to .csv', no_titlebar=True)
+            progess_bar = sg.one_line_progress_meter('Progress meter', counter, total_points, 'Writing to .csv', key='progress', no_titlebar=True, grab_anywhere=True)
             if progess_bar == False and counter == total_points:
                 write_csv(file_name, all_rows)
-                return 'csv has been created'
+                write_xls(file_name)
+                all_rows.clear()
+                return 'csv/xls have been created'
             elif progess_bar == False and counter != total_points :
                 return 'cancelled by user'

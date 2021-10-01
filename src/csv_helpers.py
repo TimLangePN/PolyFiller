@@ -31,3 +31,20 @@ def get_all_rows(zone_code, lat, lon, country_prefix, city_name, street_name, zo
         row_attributes = zone_code, lat, lon, city_name, display_streetname, google_streetname, zone_street, zone_description, tariff_range, unique_id
         all_rows.append(row_attributes)
         return all_rows, counter 
+
+def get_zone_code(feature):
+    try: 
+        return feature.extended_data.elements[1].value
+    except:
+        return feature.name
+
+def get_tariff_range_from_kml(feature):
+    try:
+        if hasattr(feature.extended_data, 'elements'): 
+            return feature.extended_data.elements[0].value
+        elif feature.styleUrl is not None:
+            return resolve_tariff_range(feature.styleUrl)
+        elif hasattr(feature._features[0], 'styleUrl'):
+            return resolve_tariff_range(feature._features[0].styleUrl)
+    except:
+        return False
